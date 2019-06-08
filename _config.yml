@@ -49,7 +49,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               /blog/
+    url:               /hydejake/
   # - title:             Hyde
   #   url:               /hyde/
   # - title:             Documentation
@@ -76,7 +76,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              5
-paginate_path:         /blog/page-:num/
+paginate_path:         /hydejake/page-:num/
 
 
 # Customizaton

@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Blog
-slug: blog
+slug: hydejake
 menu: true
 order: 1
 description: >
