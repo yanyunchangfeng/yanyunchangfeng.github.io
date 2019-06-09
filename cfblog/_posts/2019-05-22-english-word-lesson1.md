@@ -2,7 +2,7 @@
 layout: post
 title: -vinc- = vict 词根
 tags: [english-word]
-image: /assets/img/blog/english-word/lzsz.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/english-word-cover1.png
 description: >
   vinc 的思维导图
 ---

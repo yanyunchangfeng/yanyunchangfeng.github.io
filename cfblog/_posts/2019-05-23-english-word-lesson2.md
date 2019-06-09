@@ -2,7 +2,7 @@
 layout: post
 title: -form- 词根
 tags: [english-word]
-image: /assets/img/blog/english-word/yhs.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/english-word-cover2.png
 description: >
   form 的思维导图
 ---

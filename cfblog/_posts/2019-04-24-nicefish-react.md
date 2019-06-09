@@ -3,7 +3,7 @@ layout: post
 title: NiceFish-React
 description: >
   NiceFish-React 是React版本的实现
-image: /assets/img/blog/nicefish-react/csht.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/nicefish-react-cover.png
 noindex: true
 ---
 
@@ -12,23 +12,23 @@ NiceFish-React 是React版本的实现，和[NiceFish](https://gitee.com/mumu-os
 
 为了大家更加直观认识，我截了一组运行效果图：
 
-![首屏加载页面](/assets/img/blog/nicefish-react/1.jpg)  
+![首屏加载页面](http://psgke2yt3.bkt.clouddn.com/img/nicefish-react1.png)  
 <p align="center" style="background-color:gray;color:#fff">首屏加载仅需663ms</p>
 
-![这是阅读页面,不需要登录访问权限](/assets/img/blog/nicefish-react/2.jpg) 
+![这是阅读页面,不需要登录访问权限](http://psgke2yt3.bkt.clouddn.com/img/nicefish-react2.png) 
 <p align="center" style="background-color:gray;color:#fff">这是阅读页面,不需要登录访问权限</p>
 
-![这是统计图表页面,采用UI指定颜色值使用轮询算法实现(需要登录访问权限)](/assets/img/blog/nicefish-react/3.jpg) 
+![这是统计图表页面,采用UI指定颜色值使用轮询算法实现(需要登录访问权限)](http://psgke2yt3.bkt.clouddn.com/img/nicefish-react3.png) 
 
 <p align="center" style="background-color:gray;color:#fff">这是统计图表页面,采用UI指定颜色值使用轮询算法实现(需要登录访问权限)</p>
 
-![这是文章评论页面,有过滤和排序功能](/assets/img/blog/nicefish-react/4.jpg) 
+![这是文章评论页面,有过滤和排序功能](http://psgke2yt3.bkt.clouddn.com/img/nicefish-react4.png) 
 <p align="center" style="background-color:gray;color:#fff">这是文章评论页面,有过滤和排序功能</p>
 
-![这是我为NIceFish系列设计的登录效果图](/assets/img/blog/nicefish-react/5.jpg) 
+![这是我为NIceFish系列设计的登录效果图](http://psgke2yt3.bkt.clouddn.com/img/nicefish-react5.png) 
 <p align="center" style="background-color:gray;color:#fff">这是我为NIceFish系列设计的登录效果图</p>
 
-![这是阅读页面的详情面 ](/assets/img/blog/nicefish-react/6.jpg) 
+![这是阅读页面的详情面 ](http://psgke2yt3.bkt.clouddn.com/img/nicefish-react6.png) 
 <p align="center" style="background-color:gray;color:#fff">这是阅读页面的详情面(不需要登录访问权限)</p>
 
 好了,这是以上的效果展示图,通过此博客系统:

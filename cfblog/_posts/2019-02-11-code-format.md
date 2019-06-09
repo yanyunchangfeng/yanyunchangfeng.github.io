@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 代码规范
-image: /assets/img/blog/code-format/sjzc.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/code-format-cover.png
 description: >
   从命名、声明、代码和angular代码规范四个方面说明
 excerpt_separator: <!--more-->

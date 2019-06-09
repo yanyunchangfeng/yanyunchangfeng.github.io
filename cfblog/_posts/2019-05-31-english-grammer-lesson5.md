@@ -2,7 +2,7 @@
 layout: post
 title: 状语从句
 tags: [english-grammer]
-image: /assets/img/blog/english-grammer/shyf.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover5.png
 description: >
   状语从句的思维导图
 ---

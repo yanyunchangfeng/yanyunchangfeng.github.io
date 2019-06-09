@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angular Dialog 组件的设计与实现
-image: /assets/img/blog/angular-dialog/zydx.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/angular-dialog-cover.png
 description: >
   This post introduces Hydejack's now background image, color palette and logo.
 # hide_image: true
@@ -12,15 +12,15 @@ yycf-dialog 是一个基于Angular开发的通用业务组件库，包含Loading
 
 
 
-![这是loading正在加载的效果](/assets/img/blog/angular-dialog/1.jpg) 
+![这是loading正在加载的效果](http://psgke2yt3.bkt.clouddn.com/img/angular-dialog1.png) 
 
 <p style="background:gray;color:#fff;text-align:center">这是loading正在加载的效果</p>
 
-![这是confirm的效果](/assets/img/blog/angular-dialog/2.jpg) 
+![这是confirm的效果](http://psgke2yt3.bkt.clouddn.com/img/angular-dialog2.png) 
 
 <p style="background:gray;color:#fff;text-align:center">这是confirm的效果</p>
 
-![这是message的效果](/assets/img/blog/angular-dialog/3.jpg) 
+![这是message的效果](http://psgke2yt3.bkt.clouddn.com/img/angular-dialog3.png) 
 
 <p style="background:gray;color:#fff;text-align:center">这是message的效果</p>
 

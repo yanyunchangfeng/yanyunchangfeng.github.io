@@ -1,6 +1,6 @@
 ---
 title: 自定义表格架构实现多维数据动态渲染
-image: /assets/img/blog/custom-table-schema/xq.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/custom-table-cover.png
 description: >
   这是自己设计实现的一个表格小架构
 ---
@@ -19,31 +19,31 @@ description: >
 为了方便大家更加直观了解，我截取了一组在线效果运行图：
 
 
-![这是排班管理主页面，根据人员权限显示不同的操作选项，此处列出所有功能项](/assets/img/blog/custom-table-schema/1.jpg) 
+![这是排班管理主页面，根据人员权限显示不同的操作选项，此处列出所有功能项](http://psgke2yt3.bkt.clouddn.com/img/custom-table1.png) 
 
 <p style="background-color:gray;color:#fff" align="center">这是排班管理主页面，根据人员权限显示不同的操作选项，此处列出所有功能项</p>
 
 
-![这是点击修改选项后进入大队下属中队添加排班页面](/assets/img/blog/custom-table-schema/2.jpg) 
+![这是点击修改选项后进入大队下属中队添加排班页面](http://psgke2yt3.bkt.clouddn.com/img/custom-table2.png) 
 
 <p style="background-color:gray;color:#fff" align="center">这是点击修改选项后进入大队下属中队添加排班页面</p>
 
 
-![这是中队排班修改页面](/assets/img/blog/custom-table-schema/3.jpg) 
+![这是中队排班修改页面](http://psgke2yt3.bkt.clouddn.com/img/custom-table3.png) 
 
 <p style="background-color:gray;color:#fff" align="center">这是中队排班修改页面</p>
 
 
-![点击某天某个时段弹出人员、警车列表修改页面](/assets/img/blog/custom-table-schema/4.jpg) 
+![点击某天某个时段弹出人员、警车列表修改页面](http://psgke2yt3.bkt.clouddn.com/img/custom-table4.png) 
 
 <p style="background-color:gray;color:#fff" align="center">点击某天某个时段弹出人员、警车列表修改页面</p>
 
 
-![这是人员甘特图页面](/assets/img/blog/custom-table-schema/5.jpg) 
+![这是人员甘特图页面](http://psgke2yt3.bkt.clouddn.com/img/custom-table5.png) 
 
 <p style="background-color:gray;color:#fff" align="center">这是人员甘特图页面 </p>
 
-![这是勤务考核统计页面](/assets/img/blog/custom-table-schema/6.jpg) 
+![这是勤务考核统计页面](http://psgke2yt3.bkt.clouddn.com/img/custom-table6.png) 
 
 <p style="background-color:gray;color:#fff" align="center">这是勤务考核统计页面 </p>
 

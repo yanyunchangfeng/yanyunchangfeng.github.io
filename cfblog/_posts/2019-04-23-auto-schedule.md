@@ -3,7 +3,7 @@ layout: post
 title: 自动排班算法的设计与实现（日历算法）
 description: >
   自己设计并实现了自动排班算法
-image: /assets/img/blog/auto-schedule/bj-sz.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/auto-schedule-cover.png
 ---
 写这篇文章之前，酝酿了很久，希望把自己之前遇到的问题及解决方案分享给大家。
 
@@ -13,13 +13,13 @@ image: /assets/img/blog/auto-schedule/bj-sz.jpg
 
 为了大家更加直观了解，我截了几张运行效果图：
 
-![排班主页面](/assets/img/blog/auto-schedule/1.jpg) 
+![排班主页面](http://psgke2yt3.bkt.clouddn.com/img/auto-schedule1.png) 
 <p align="center" style="background-color:gray;color:#fff">排班主页面</p>
-![选择排班人员](/assets/img/blog/auto-schedule/2.jpg) 
+![选择排班人员](http://psgke2yt3.bkt.clouddn.com/img/auto-schedule2.png) 
 
 <p align="center" style="background-color:gray;color:#fff">选择排班人员</p>
 
-![生成的排班人员](/assets/img/blog/auto-schedule/3.jpg) 
+![生成的排班人员](http://psgke2yt3.bkt.clouddn.com/img/auto-schedule3.png) 
 
 <p align="center" style="background-color:gray;color:#fff">生成的排班人员</p>
 

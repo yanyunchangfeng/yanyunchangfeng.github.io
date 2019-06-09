@@ -2,7 +2,7 @@
 layout: post
 title: 句子成分超精解的奥秘
 tags: [english-grammer]
-image: /assets/img/blog/english-grammer/cc.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover7.png
 description: >
   句子成分超精解的奥秘的思维导图
 ---

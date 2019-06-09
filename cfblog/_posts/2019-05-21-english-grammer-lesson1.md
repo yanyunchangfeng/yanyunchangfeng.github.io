@@ -2,7 +2,7 @@
 layout: post
 title: 词类、句子成分、动词种类、句式流程图
 tags: [english-grammer]
-image: /assets/img/blog/english-grammer/hzxz.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover1.png
 description: >
   词类、句子成分、动词种类、句式流程图的思维导图
 ---

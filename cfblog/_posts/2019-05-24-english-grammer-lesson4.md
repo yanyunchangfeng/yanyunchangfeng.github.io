@@ -2,7 +2,7 @@
 layout: post
 title: 定语从句
 tags: [english-grammer]
-image: /assets/img/blog/english-grammer/shyz.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover4.png
 description: >
   定语从句的思维导图
 ---

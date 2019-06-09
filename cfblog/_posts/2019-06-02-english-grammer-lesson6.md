@@ -2,7 +2,7 @@
 layout: post
 title: 句子成分和词类交互式对应
 tags: [english-grammer]
-image: /assets/img/blog/english-grammer/hh.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover6.png
 description: >
   句子成分和词类交互式对应的思维导图
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 名词性从句
 tags: [english-grammer]
-image: /assets/img/blog/english-grammer/hh.jpg
+image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover3.png
 description: >
   名词性从句的思维导图
 ---
