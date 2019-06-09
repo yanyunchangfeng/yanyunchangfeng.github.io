@@ -3,12 +3,6 @@
   <hr/>
   {% if site.copyright.size > 0 %}
     <p><small class="copyright">{{ site.copyright | markdownify | replace:'<p>','' | replace:'</p>','' }}</small></p>
-    <div style="width:300px;margin:0 auto; padding:20px 0;text-align:center">
-      <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010902002181" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
-        <img src="http://psgke2yt3.bkt.clouddn.com/img/filing.png" style="float:left;">
-        <p style="float:right;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">浙公网安备 33010902002181号</p>
-      </a>
-    </div>
   {% endif %}
   {% if site.legal.size > 0 %}
     <nav class="legal"><small>
@@ -19,6 +13,13 @@
     {% endfor %}
     </small></nav>
   {% endif %} 
+  
+  <div style="width:300px;margin:0 auto; padding:20px 0;text-align:center">
+     <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010902002181" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+       <img src="http://psgke2yt3.bkt.clouddn.com/img/filing.png" style="float:left;">
+       <p style="float:right;height:20px;line-height:20px;margin: 1px 23px 0px -10px; color:#939393;">浙公网安备 33010902002181号</p>
+     </a>
+  </div>
   <hr class="sr-only"/>
 </footer>
 {% endif %}
