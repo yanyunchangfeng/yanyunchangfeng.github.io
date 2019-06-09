@@ -56,9 +56,9 @@ menu:
   #   url:               /docs/
   - title:             About
     url:               /about/
-  - title:             english-word
+  - title:             English-word
     url:               /tag-english-word/
-  - title:             english-grammer
+  - title:             English-grammer
     url:               /tag-english-grammer/
 
 
