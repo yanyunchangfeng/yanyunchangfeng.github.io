@@ -13,11 +13,11 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/sidebar-bg.jpg
+    path:            http://psgke2yt3.bkt.clouddn.com/img/author-icon.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/sidebar-bg.jpg
-      2x:            /assets/img/sidebar-bg.jpg
+      1x:            http://psgke2yt3.bkt.clouddn.com/img/author-icon.png
+      2x:            http://psgke2yt3.bkt.clouddn.com/img/author-icon.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -72,7 +72,7 @@ author2:
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
     Open `_data/authors.yml` to edit this text.
-  picture:           /assets/img/sidebar-bg.jpg
+  picture:           http://psgke2yt3.bkt.clouddn.com/img/author-icon.png
   twitter:           <username>
   github:            <username>
   accent_color:      '#268bd2'
