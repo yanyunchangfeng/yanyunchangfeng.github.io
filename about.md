@@ -1,5 +1,5 @@
 ---
-image: /assets/img/blog/hydejack-8.png
+image: http://psgke2yt3.bkt.clouddn.com/img/yanyunchangfeng.png
 ---
 
 # About
