@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="src/assets/icons/yanyunchangfeng.png">
+    <img width="300" src="assets/icons/yanyunchangfeng.png">
 </p>
 
 ##  介绍

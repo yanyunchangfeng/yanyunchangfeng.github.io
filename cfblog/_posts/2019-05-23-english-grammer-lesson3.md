@@ -2,7 +2,7 @@
 layout: post
 title: 名词性从句
 tags: [english-grammer]
-image: /assets/img/blog/english-grammer/cqbl.jpg
+image: /assets/img/blog/english-grammer/hh.jpg
 description: >
   名词性从句的思维导图
 ---
