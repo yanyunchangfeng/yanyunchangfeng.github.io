@@ -140,7 +140,7 @@ google_analytics:      UA-140908492-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <disqus_shortname>
+disqus:                https-yanyunchangfeng-com
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -343,3 +343,10 @@ compress_html:
 
 sass:
   style:               compressed
+
+# disqus comments
+defaults:
+  - scope:
+      type: posts
+    values:
+      comments: true

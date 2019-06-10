@@ -18,7 +18,7 @@ NiceFish-React 是React版本的实现，和[NiceFish](https://gitee.com/mumu-os
 ![这是阅读页面,不需要登录访问权限](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/nicefish-react/nicefish-react2.png) 
 <p align="center" style="background-color:gray;color:#fff">这是阅读页面,不需要登录访问权限</p>
 
-![这是统计图表页面,采用UI指定颜色值使用轮询算法实现(需要登录访问权限)](hhttps://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/nicefish-react/nicefish-react3.png) 
+![这是统计图表页面,采用UI指定颜色值使用轮询算法实现(需要登录访问权限)](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/nicefish-react/nicefish-react3.png) 
 
 <p align="center" style="background-color:gray;color:#fff">这是统计图表页面,采用UI指定颜色值使用轮询算法实现(需要登录访问权限)</p>
 
