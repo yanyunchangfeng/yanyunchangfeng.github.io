@@ -8,7 +8,7 @@ description: >
 ---
 
 
-![定语从句](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/lesson4.png)
+![定语从句](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-lesson4.png)
 
 ## 我参与的系列项目
 

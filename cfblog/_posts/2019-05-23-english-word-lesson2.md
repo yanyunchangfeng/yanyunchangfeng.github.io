@@ -7,7 +7,7 @@ description: >
   form 的思维导图
 ---
 
-![form](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-word/lesson2.png)
+![form](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-word/english-word-lesson2.png)
 
 ## 我参与的系列项目
 

@@ -8,7 +8,7 @@ description: >
 ---
 
 
-![句子成分超精解的奥秘](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/lesson7.png)
+![句子成分超精解的奥秘](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-lesson7.png)
 
 ## 我参与的系列项目
 

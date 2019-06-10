@@ -8,7 +8,7 @@ description: >
 ---
 
 
-![句子成分和词类交互式对应](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/lesson6.png)
+![句子成分和词类交互式对应](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-lesson6.png)
 
 ## 我参与的系列项目
 
