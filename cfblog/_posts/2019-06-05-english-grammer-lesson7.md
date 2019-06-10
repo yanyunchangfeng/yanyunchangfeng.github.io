@@ -2,13 +2,13 @@
 layout: post
 title: 句子成分超精解的奥秘
 tags: [english-grammer]
-image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover7.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover7.png
 description: >
   句子成分超精解的奥秘的思维导图
 ---
 
 
-![句子成分超精解的奥秘](http://psgke2yt3.bkt.clouddn.com/english-grammer/lesson7.png)
+![句子成分超精解的奥秘](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/lesson7.png)
 
 ## 我参与的系列项目
 

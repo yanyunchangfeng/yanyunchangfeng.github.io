@@ -2,13 +2,13 @@
 layout: post
 title: 词类、句子成分、动词种类、句式流程图
 tags: [english-grammer]
-image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover1.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover1.png
 description: >
   词类、句子成分、动词种类、句式流程图的思维导图
 ---
 
 
-![词类、句子成分、动词种类、句式流程图](http://psgke2yt3.bkt.clouddn.com/english-grammer/lesson1.png)
+![词类、句子成分、动词种类、句式流程图](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/lesson1.png)
 
 ## 我参与的系列项目
 

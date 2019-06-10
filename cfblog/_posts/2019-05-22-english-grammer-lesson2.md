@@ -2,7 +2,7 @@
 layout: post
 title: 五大核心句式，动词时态
 tags: [english-grammer]
-image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover2.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover2.png
 description: >
   五大核心句式，动词时态的思维导图
 ---
@@ -11,7 +11,7 @@ description: >
 你好，我是徐晓东，笔名**燕云长风**。大漠穷秋于 2019-03-16 21:22 赠此笔名。
 寓意：结合李白著名的边塞诗《关山月》取【燕云长风】—— **长风几万里，吹度玉门关。**
 
-![五大核心句式，动词时态](http://psgke2yt3.bkt.clouddn.com/english-grammer/lesson2.png)
+![五大核心句式，动词时态](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/lesson2.png)
 
 ## 我参与的系列项目
 

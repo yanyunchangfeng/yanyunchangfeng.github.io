@@ -1,6 +1,6 @@
 ---
 title: Angular 依赖注入
-image: http://psgke2yt3.bkt.clouddn.com/img/angular-injector-cover.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/angular-injector/angular-injector-cover.png
 description: >
   从依赖注入的概念、依赖注入性框架和依赖性注入进阶三个方面讲解说明
 ---

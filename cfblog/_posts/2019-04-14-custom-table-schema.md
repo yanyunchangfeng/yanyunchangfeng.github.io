@@ -1,6 +1,6 @@
 ---
 title: 自定义表格架构实现多维数据动态渲染
-image: http://psgke2yt3.bkt.clouddn.com/img/custom-table-cover.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/custom-table-schema/custom-table-cover.png
 description: >
   这是自己设计实现的一个表格小架构
 ---
@@ -19,31 +19,31 @@ description: >
 为了方便大家更加直观了解，我截取了一组在线效果运行图：
 
 
-![这是排班管理主页面，根据人员权限显示不同的操作选项，此处列出所有功能项](http://psgke2yt3.bkt.clouddn.com/img/custom-table1.png) 
+![这是排班管理主页面，根据人员权限显示不同的操作选项，此处列出所有功能项](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/custom-table-schema/custom-table1.png) 
 
 <p style="background-color:gray;color:#fff" align="center">这是排班管理主页面，根据人员权限显示不同的操作选项，此处列出所有功能项</p>
 
 
-![这是点击修改选项后进入大队下属中队添加排班页面](http://psgke2yt3.bkt.clouddn.com/img/custom-table2.png) 
+![这是点击修改选项后进入大队下属中队添加排班页面](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/custom-table-schema/custom-table2.png) 
 
 <p style="background-color:gray;color:#fff" align="center">这是点击修改选项后进入大队下属中队添加排班页面</p>
 
 
-![这是中队排班修改页面](http://psgke2yt3.bkt.clouddn.com/img/custom-table3.png) 
+![这是中队排班修改页面](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/custom-table-schema/custom-table3.png) 
 
 <p style="background-color:gray;color:#fff" align="center">这是中队排班修改页面</p>
 
 
-![点击某天某个时段弹出人员、警车列表修改页面](http://psgke2yt3.bkt.clouddn.com/img/custom-table4.png) 
+![点击某天某个时段弹出人员、警车列表修改页面](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/custom-table-schema/custom-table4.png) 
 
 <p style="background-color:gray;color:#fff" align="center">点击某天某个时段弹出人员、警车列表修改页面</p>
 
 
-![这是人员甘特图页面](http://psgke2yt3.bkt.clouddn.com/img/custom-table5.png) 
+![这是人员甘特图页面](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/custom-table-schema/custom-table5.png) 
 
 <p style="background-color:gray;color:#fff" align="center">这是人员甘特图页面 </p>
 
-![这是勤务考核统计页面](http://psgke2yt3.bkt.clouddn.com/img/custom-table6.png) 
+![这是勤务考核统计页面](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/custom-table-schema/custom-table6.png) 
 
 <p style="background-color:gray;color:#fff" align="center">这是勤务考核统计页面 </p>
 

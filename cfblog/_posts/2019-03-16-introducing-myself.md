@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 燕云长风笔名的由来
-image: http://psgke2yt3.bkt.clouddn.com/img/yanyunchangfeng.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/icons/yanyunchangfeng.png
 description: >
   大漠穷秋赠予笔名燕云长风
 excerpt_separator: <!--more-->

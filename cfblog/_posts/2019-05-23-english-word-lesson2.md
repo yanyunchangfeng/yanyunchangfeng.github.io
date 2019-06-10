@@ -2,12 +2,12 @@
 layout: post
 title: -form- 词根
 tags: [english-word]
-image: http://psgke2yt3.bkt.clouddn.com/img/english-word-cover2.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-word/english-word-cover2.png
 description: >
   form 的思维导图
 ---
 
-![form](http://psgke2yt3.bkt.clouddn.com/english-word/lesson2.png)
+![form](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-word/lesson2.png)
 
 ## 我参与的系列项目
 

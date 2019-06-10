@@ -2,14 +2,14 @@
 layout: post
 title: 状语从句
 tags: [english-grammer]
-image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover5.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
   状语从句的思维导图
 ---
 
 
 
-![状语从句](http://psgke2yt3.bkt.clouddn.com/english-grammer/lesson5.png)
+![状语从句](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/lesson5.png)
 
 ## 我参与的系列项目
 

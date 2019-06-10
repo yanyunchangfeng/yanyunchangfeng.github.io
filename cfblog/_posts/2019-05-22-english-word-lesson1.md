@@ -2,13 +2,13 @@
 layout: post
 title: -vinc- = vict 词根
 tags: [english-word]
-image: http://psgke2yt3.bkt.clouddn.com/img/english-word-cover1.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-word/english-word-cover1.png
 description: >
   vinc 的思维导图
 ---
 
 
-![vinc=vict](http://psgke2yt3.bkt.clouddn.com/english-word/lesson1.png)
+![vinc=vict](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-word/lesson1.png)
 
 ## 我参与的系列项目
 

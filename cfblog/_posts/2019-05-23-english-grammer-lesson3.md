@@ -2,14 +2,14 @@
 layout: post
 title: 名词性从句
 tags: [english-grammer]
-image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover3.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover3.png
 description: >
   名词性从句的思维导图
 ---
 
 
 
-![名词性从句](http://psgke2yt3.bkt.clouddn.com/english-grammer/lesson3.png)
+![名词性从句](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/lesson3.png)
 
 ## 我参与的系列项目
 

@@ -2,13 +2,13 @@
 layout: post
 title: 定语从句
 tags: [english-grammer]
-image: http://psgke2yt3.bkt.clouddn.com/img/english-grammer-cover4.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover4.png
 description: >
   定语从句的思维导图
 ---
 
 
-![定语从句](http://psgke2yt3.bkt.clouddn.com/english-grammer/lesson4.png)
+![定语从句](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/lesson4.png)
 
 ## 我参与的系列项目
 
