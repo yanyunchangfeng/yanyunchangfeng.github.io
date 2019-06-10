@@ -51,16 +51,13 @@ author:
 menu:
   - title:             Blog
     url:               /cfblog/
-  # - title:             Hyde
-  #   url:               /hyde/
-  # - title:             Documentation
-  #   url:               /docs/
-  - title:             About
-    url:               /about/
-  - title:             English-word
-    url:               /tag-english-word/
-  - title:             English-grammer
-    url:               /tag-english-grammer/
+  - title:             English
+    url:               /english/
+  - title:             Project
+    url:               /project/
+  - title:             Resume
+    url:               /resume/
+
 
 
 # Add links to the footer.
