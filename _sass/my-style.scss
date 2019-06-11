@@ -10,5 +10,8 @@
 .resume-frame{
   height: calc(100vh - 50px);
   position: relative;
-  top:-70px;
+  top:-110px;
+  @media (max-width:768px) {
+    top:-30px
+  }
 }
