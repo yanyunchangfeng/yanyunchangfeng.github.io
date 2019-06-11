@@ -3,6 +3,10 @@ email:
   name: Email
   icon: icon-mail
   prepend: 'mailto:'
+medium: 
+  name: Medium
+  icon: icon-blogger
+  prepend: 'https://medium.com/@'
 amazon:
   name: Amazon
   icon: icon-amazon

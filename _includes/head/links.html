@@ -33,3 +33,8 @@
 {% if disqus %}
 <link rel="dns-prefetch" href="https://{{ disqus }}.disqus.com" id="_hrefDisqus">
 {% endif %}
+<script>
+  if(document.getElementsByName('generator')[0]){
+    document.head.removeChild(document.getElementsByName('generator')[0])
+  }
+</script>

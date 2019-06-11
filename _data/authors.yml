@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              燕云长风           
+  email:             yanyunchangfeng@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -25,12 +25,16 @@ author1:
   social:
     twitter:         yanyunchangfeng
     github:          yanyunchangfeng
+    stackoverflow:     11366314
+    npm:               yanyunchangfeng
+    linkedin:          yanyunchangfeng
+    medium:            yanyunchangfeng
+    facebook:          yanyunchangfeng
     email:           yanyunchangfeng@gamil.com
     # rss:             https://<url>/feed.xml
-    # facebook:        <username>
     # google:          <number>
     # vk:              <username>
-    # youtube:           yanyunchangfeng
+    youtube:           UCaz2-l8Bd8tTBf1q-2ww7VA         
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
@@ -50,8 +54,6 @@ author1:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    # stackoverflow:   <number/username>
-    npm:               yanyunchangfeng
     # hackernews:      <username>
     # trello:          <firstnamelastname>
     # linkedin:        <firstname-lastname-string>
@@ -60,7 +62,7 @@ author1:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    # download:        <url>
+    download:        https://github.com/yanyunchangfeng/yanyunchangfeng.github.io/archive/master.zip
 
 # Another author (optional)
 author2:
