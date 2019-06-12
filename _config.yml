@@ -78,7 +78,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              5
 paginate_path:         /yycf-blog/page-:num/
 
-
+cdn: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/
 # Customizaton
 # ========================================================================================
 
@@ -343,6 +343,16 @@ compress_html:
 
 sass:
   style:               compressed
+
+comments :
+  gitalk: true
+  gitalk_clientID: '9d84ccf8ab05a878a0e5'
+  gitalk_Secret: '802eadbcf95591fa4f9f31c42acb007c84c4df6a'
+  gitalk_repo: 'yanyunchangfeng.github.io'
+  gitalk_owner: 'yanyunchangfeng'
+  gitalk_admin: ['yanyunchangfeng']
+  # gitalk_id: location.pathname
+  # gittalk_distractionFreeMode: true
 
 # disqus comments
 defaults:
