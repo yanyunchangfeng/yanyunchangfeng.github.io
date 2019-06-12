@@ -30,7 +30,7 @@ yycf-dialog 是一个基于Angular开发的通用业务组件库，包含Loading
 ```
 ## 使用
 
-```
+```swift
 import { DialogModule, DialogService} from 'yycf-dialog/components';
 
 <yycf-dialog [key]="'1'"></yycf-dialog>
@@ -154,7 +154,7 @@ export class DialogDemo  implements OnInit{
   ```
 ## Service类的实现
 
-```
+``` swift
 import {Injectable} from "@angular/core";
 import {ReplaySubject} from "rxjs";
 import {Dialog} from "./dialog";
@@ -177,7 +177,7 @@ export class DialogService{
 
 ## 组件类的实现
 
-```
+```swift
 export class DialogComponent implements OnDestroy,OnInit{
   @Input() header = 'waiting';
   @Input() key:string;

@@ -6,7 +6,7 @@ description: >
   从命名、声明、代码和angular代码规范四个方面说明
 excerpt_separator: <!--more-->
 ---
-
+```swift
 1 .命名
 
      1.1 类名，对象命名通常是名词或名词短语，如Customer，UserInfo，避免使用Manager，Data等，不要使用动词；
@@ -47,7 +47,7 @@ excerpt_separator: <!--more-->
      4.6  Controller的命名以Ctrl结尾，首字母大写，以驼峰式命名，如DiskCreationCtrl
      4.7  template的html尽量不要内联模式，最好创建一个html用外联模式
      4.8  angular的规范应该遵从上面三类的规范，比如单一原则中，一个controller.js里面应该只放一个controller，这个controller只做完成某一个功能；
-
+```
 ## 我参与的系列项目
 
 1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：美人鱼，这是一个微型Blog系统，前端基于Angular7.0 + PrimeNG7.1.0。（GVIP 码云最有价值的开源项目 3190 ☆)

@@ -42,7 +42,7 @@ image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/aut
 上月最后一天: lastDayofLastMonth : new Date(year, month–1 ,0) 本月第0天即上月最后一天
 
 了解了这些知识后，下面我们开始上代码，编写日历算法:
-```
+```swift
 /**  
  * [getMonthData 计算日历的方法]
  * @param {number} year  [年]

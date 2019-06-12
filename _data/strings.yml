@@ -16,7 +16,8 @@ posts:                 Posts
 about:                 About
 related_posts:         Related Posts
 other_projects:        Other Projects
-comments:              Comments ( Foreign Disqus Community 你懂得 )
+comments:              Disqus Comments ( Foreign Disqus Community 你懂得 )
+gitalk_comments:       Gitalk Comments
 jump_to:               Jump to
 navigation:            Navigation
 social:                Social

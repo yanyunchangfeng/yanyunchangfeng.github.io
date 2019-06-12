@@ -48,7 +48,7 @@ description: >
 <p style="background-color:gray;color:#fff" align="center">这是勤务考核统计页面 </p>
 
 
-```
+```swift
 接下来给大家展示一下数据部分：这是其中的一条数据，有些长
 var duty = {
   "grouyId":"0293",
