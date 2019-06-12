@@ -7,3 +7,5 @@ description:  词汇和语法
 
 * [English-Grammer](/tag-english-grammer/)
 
+* [English-Sentences](/tag-english-sentences/)
+
