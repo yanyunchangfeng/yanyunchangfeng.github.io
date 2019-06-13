@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 1-10大经典名句
+title: 01-10经典名句
 tags: [english-sentences]
-image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover7.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover6.png
 description: >
-   1-10大英语经典名句
+   1-10英语经典名句
 ---
 ``` swift
   No.1 : A genius is the person who repeats the most times.  

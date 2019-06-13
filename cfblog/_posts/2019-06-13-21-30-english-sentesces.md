@@ -1,50 +1,50 @@
 ---
 layout: post
-title: 11-20经典名句
+title: 21-30经典名句
 tags: [english-sentences]
-image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/code-format/code-format-cover.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   11-20英语经典名句
+   21-30英语经典名句
 ---
  ```swift
-  No.11: The way to hay a better tomorrow is to start working on it today. 
-         为了拥有一个更美好明天的方法就是今天开始努力。
+  No.21: Education doesn't do us much good unless it is mixed with sweat. 
+         除了教育混杂着汗水，否则它对我们没有什么益处。
  ```
  ```swift
-  No.12: No one can get anywhere unless he knows where he wants to go and what he wants to be or do. 
-         没有人可以到达任何地方，除非他知道他想去哪里以及他想成为谁或做什么事。
+  No.22: The outer conditions of a person's life will always be found to reflect their inner beliefs. 
+         一个人的外在条件总是会反映出他们的内在信仰。
  ```
  ```swift
-  No.13: The more prepared you are , the more confidence you will have.
-         你准备的越充分，你就越自信。
+  No.23: Every great achievement is the result of  a heart on fire.
+         每个伟大的成就都是一颗熊熊燃烧的心的结果。
  ```
  ```swift
-  No.14: When you relize, the more you take ,the less you have.
-         你何时才能领悟索取越多收获越少。
+  No.24: Everything that is done in the world is done by hope.
+         世界上每件被完成的事都是因希望而完成。
  ```
  ```swift
-  No.15: the more failures, the more changes for success.Success is usually the last-minute visitor.
-         失败越多，成功的机会越多。成功终将到来。
+  No.25: of all human resource , the most precious one is the desire to improve.
+         人类品格中最宝贵的一项就是自我提升的愿望。
  ```
  ```swift
-  No.16: Be thankful each new challenge, because it will build your strength and character.
-         为每个全新的挑战而心怀感恩，因为它会打造你的力量和品格。
+  No.26: Genius only means working hard all one's life.
+         天才意味着一生的努力。
  ```
  ```swift
-  No.17: Victory won't come to me, unless I go to it.
-         胜利不会向我走来，除非我向胜利走去。
+  No.27: The difference between a successful person and others is not a lack of strength, not a lack of knowledge,but rather a lack of will.
+         少数成功者和多数平庸者之间的区别不是力量的缺乏，不是知识的缺乏，而是意志力的缺乏。
  ```
  ```swift
-  No.18: A man isn't finished when he is defeated. Only he is finished when he quits.
-         当一个人被打败的时候，他没有完结。只有他放弃的时候，才会完结。
+  No.28: Love makes the world go around.
+         爱使这个世界转动。
  ```
  ```swift
-  No.19: we struggle painfully today to create an amazing future
-         为创造一个美好的未来，我们今天要艰苦奋斗。
+  No.29: Most people are about as happy as they make up their minds to be.
+         大多数人所获得的快乐是由他们自己决定的。
  ```
  ```swift
-  No.20: Life is brief,let's make it wonderful!
-         生命短暂，让我们使它精彩丰呈！
+  No.30: If you are doing your best,you will not have to worry about failure.
+         如果你竭尽全力，那么你就不用担心失败。
  ```
 
 
