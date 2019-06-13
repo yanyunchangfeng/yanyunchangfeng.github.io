@@ -79,6 +79,7 @@ paginate:              5
 paginate_path:         /yycf-blog/page-:num/
 
 cdn: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/
+
 # Customizaton
 # ========================================================================================
 
