@@ -42,5 +42,9 @@
       "type": "image/png",
       "sizes": "576x576"
     }
-  ]
+  ],
+  "related_applications": [{
+    "platform": "web",
+    "url":"https://yanyunchangfeng.com"
+  }]
 }

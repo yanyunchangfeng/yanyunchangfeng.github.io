@@ -55,6 +55,8 @@ menu:
     url:               /english/
   - title:             Project
     url:               /project/
+  - title:             About
+    url:               /about/
   - title:             Resume
     url:               /resume/
 
