@@ -1,5 +1,7 @@
 ---
+layout: post
 title: 自定义表格架构实现多维数据动态渲染
+categories: [cfblog]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/custom-table-schema/custom-table-cover.png
 description: >
   这是自己设计实现的一个表格小架构

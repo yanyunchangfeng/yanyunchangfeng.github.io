@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NiceFish-React
+categories: [cfblog]
 description: >
   NiceFish-React 是React版本的实现
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/nicefish-react/nicefish-react-cover.png

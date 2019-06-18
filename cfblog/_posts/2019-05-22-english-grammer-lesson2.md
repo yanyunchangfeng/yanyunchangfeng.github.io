@@ -2,6 +2,7 @@
 layout: post
 title: 五大核心句式，动词时态
 tags: [english-grammer]
+categories: [cfblog]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover2.png
 description: >
   五大核心句式，动词时态的思维导图

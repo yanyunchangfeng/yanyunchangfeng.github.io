@@ -2,6 +2,7 @@
 layout: post
 title: 词类、句子成分、动词种类、句式流程图
 tags: [english-grammer]
+categories: [cfblog]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover1.png
 description: >
   词类、句子成分、动词种类、句式流程图的思维导图

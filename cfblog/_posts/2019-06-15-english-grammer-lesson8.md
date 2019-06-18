@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 语法七要素-两大短语
+categories: [cfblog]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
@@ -8,7 +9,7 @@ description: >
 ---
 
 
-![语法七要素-两大短语](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-lesson8.png)
+![语法七要素-两大短语](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-8.png)
 
 ## 我参与的系列项目
 

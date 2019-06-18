@@ -2,6 +2,7 @@
 layout: post
 title: 状语从句
 tags: [english-grammer]
+categories: [cfblog]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
   状语从句的思维导图

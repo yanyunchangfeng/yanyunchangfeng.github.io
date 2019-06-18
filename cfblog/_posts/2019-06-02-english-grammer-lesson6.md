@@ -2,6 +2,7 @@
 layout: post
 title: 句子成分和词类交互式对应
 tags: [english-grammer]
+categories: [cfblog]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover6.png
 description: >
   句子成分和词类交互式对应的思维导图

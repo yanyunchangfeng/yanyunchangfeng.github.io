@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 01-10经典名句
+categories: [cfblog]
 tags: [english-sentences]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover6.png
 description: >

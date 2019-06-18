@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 41-50经典名句
+categories: [cfblog]
 tags: [english-sentences]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >

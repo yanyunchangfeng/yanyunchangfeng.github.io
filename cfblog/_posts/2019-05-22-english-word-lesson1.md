@@ -2,6 +2,7 @@
 layout: post
 title: -vinc- = vict 词根
 tags: [english-word]
+categories: [cfblog]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-word/english-word-cover1.png
 description: >
   vinc 的思维导图

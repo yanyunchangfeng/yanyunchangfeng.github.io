@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  五二三法则-英语中断句的奥秘
+categories: [cfblog]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
@@ -8,7 +9,7 @@ description: >
 ---
 
 
-![五二三法则-英语中断句的奥秘](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-lesson9.png)
+![五二三法则-英语中断句的奥秘](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-9.png)
 
 ## 我参与的系列项目
 

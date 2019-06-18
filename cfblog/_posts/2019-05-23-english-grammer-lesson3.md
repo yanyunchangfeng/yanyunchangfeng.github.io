@@ -2,6 +2,7 @@
 layout: post
 title: 名词性从句
 tags: [english-grammer]
+categories: [cfblog]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover3.png
 description: >
   名词性从句的思维导图

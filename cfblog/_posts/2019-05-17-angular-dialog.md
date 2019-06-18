@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Angular Dialog 组件的设计与实现
+categories: [cfblog]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/angular-dialog/angular-dialog-cover.png
 description: >
   Angular Dialog 组件已于2019-06-07 升级到angular 8.0

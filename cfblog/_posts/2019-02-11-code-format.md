@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 代码规范
+categories: [cfblog]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/code-format/code-format-cover.png
 description: >
   从命名、声明、代码和angular代码规范四个方面说明

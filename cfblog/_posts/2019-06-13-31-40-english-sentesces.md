@@ -2,6 +2,7 @@
 layout: post
 title: 31-40经典名句
 tags: [english-sentences]
+categories: [cfblog]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
    31-40英语经典名句

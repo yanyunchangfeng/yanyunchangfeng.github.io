@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 自动排班算法的设计与实现（日历算法）
+categories: [cfblog]
 description: >
   自己设计并实现了自动排班算法
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/auto-schedule/auto-schedule-cover.png
