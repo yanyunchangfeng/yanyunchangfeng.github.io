@@ -13,7 +13,7 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "{{ site.cdn | relative_url }}{{'iconcf-icon@0,5x.png'}}",
+      "src": "{{ site.cdn | relative_url }}{{'icons/cf-icon@0,25x.png'}}",
       "type": "image/png",
       "sizes": "48x48"
     },

@@ -1,5 +1,5 @@
 <div class="resume-frame">
-        <object width="100%" height="100%" type="application/pdf" data="https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/ycf-resume.pdf" internalinstanceid="5">
-            <a href="https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/ycf-resume.pdf" download="https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/ycf-resume.pdf">Resume</a>  (QQ无法下载，建议使用Chrome浏览器)
+        <object width="100%" height="100%" type="application/pdf" data="{{site.cdn}}yycf.pdf" internalinstanceid="5">
+            <a href="/assets/yycf.pdf" download="yanyunchangfeng">Resume</a> (QQ & WX 若无法打开链接，请使用浏览器打开(Chrome尤佳))
         </object>
 </div>

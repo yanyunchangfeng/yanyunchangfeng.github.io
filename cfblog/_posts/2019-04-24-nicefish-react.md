@@ -47,7 +47,7 @@ NiceFish-React 是React版本的实现，和[NiceFish](https://gitee.com/mumu-os
 如果你需要更加全面的代码,请访问
 [NiceFish-React](https://gitee.com/mumu-osc/NiceFish-React)
 
-这是NiceFish-React 在gitee page 上的在线演示地址:[NiceFish-React](https://mumu-osc.gitee.io/nicefish-react)
+这是NiceFish-React 在gitee page 上的在线演示地址:[NiceFish-React](https://yanyunchangfeng.gitee.io/nicefish-react)
 
 ## 我参与的系列项目
 
