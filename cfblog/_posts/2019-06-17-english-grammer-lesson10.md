@@ -9,7 +9,7 @@ description: >
 ---
 
 
-![五二三法则-英语中断句的奥秘](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-10.png)
+![五二三法则-英语中断句的奥秘]({{site.cdn}}img/blog/english-grammer/english-grammer-10.png)
 
 ## 我参与的系列项目
 

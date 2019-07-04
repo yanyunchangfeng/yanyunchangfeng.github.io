@@ -9,7 +9,7 @@ description: >
 ---
 
 
-![vinc=vict](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-word/english-word-lesson1.png)
+![vinc=vict]({{site.cdn}}img/blog/english-word/english-word-1.png)
 
 ## 我参与的系列项目
 

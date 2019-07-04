@@ -9,7 +9,7 @@ description: >
 ---
 
 
-![语法七要素-两大短语](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-8.png)
+![语法七要素-两大短语]({{site.cdn}}img/blog/english-grammer/english-grammer-8.png)
 
 ## 我参与的系列项目
 

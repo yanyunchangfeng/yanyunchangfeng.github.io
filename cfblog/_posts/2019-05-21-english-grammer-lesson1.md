@@ -25,7 +25,7 @@ description: >
 
 
 
-![词类、句子成分、动词种类、句式流程图](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-lesson1.png)
+![词类、句子成分、动词种类、句式流程图]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson1.png)
 
 ## 我参与的系列项目
 
