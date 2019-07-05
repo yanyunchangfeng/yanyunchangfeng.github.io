@@ -8,8 +8,8 @@ description: >
   定语从句进阶版
 ---
 
-PS ：15 课 对应 19 * 1h 课程（中间有合并）
-![定语从句进阶版](/assets/img/blog/english-grammer/english-grammer-lesson16.png) 
+PS ：16 课 对应 19 * 1h 课程（中间有合并）
+![定语从句进阶版]({{site.cdn}}img/blog/english-grammer/e-g-lesson16.png) 
 
 ## 我参与的系列项目
 
