@@ -1,15 +1,53 @@
 ---
 layout: post
-title: 句子成分和词类交互式对应
-tags: [english-grammer]
-categories: [cfblog]
+title: 01-10经典名句
+categories: [english]
+tags: [english-sentences]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover6.png
 description: >
-  句子成分和词类交互式对应的思维导图
+   1-10英语经典名句
 ---
+``` swift
+  No.1 : A genius is the person who repeats the most times.  
+         天才就是重复次数最多的那个人。
+```
+``` swift
+  No.2 : If you can make your skills into instinct , you will be unbeatable. Keep moving！   
+         如果你能将你的技能变成你的本能，那么你将天下无敌。永不止步！
+```
+``` swift
+  No.3 : If you only do what you can do ,you will never be more than you are now.  
+         如果你只做你力所能及的事，你就没法进步。
+```
+``` swift
+  No.4 : Gold helps those who help themselves!
+         天助自助者！
+```
+``` swift
+  No.5 : It is impossible to default a peroson  who never gives up.
+         打败一个永不放弃的人是不可能的。
+```
+``` swift
+  No.6 : If you don't try, you will never succeed.
+         如果你不努力，你将无法成功。
+```
+``` swift
+  No.7 : What you do today is what matters most.
+         你今天做的事情就是最重要的。
+```
+``` swift
+  No.8 : I will greet this day with love in my heart.
+         我将用心中的爱迎接明天。
+```
+``` swift
+  No.9 : The victory of the competition terrain has been decided already by how we are working hard on the training ground. 
+         赛场上的胜利早在训练场上就已经被决定了。
+```
+``` swift
+  No.10: Challenge are what make life interesting; overcoming them is what makes life meaningful. 
+         挑战是使生命充满意义的事情；而克服挑战使生命充满意义。
+```
 
-
-![句子成分和词类交互式对应]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson6.png)
 
 ## 我参与的系列项目
 

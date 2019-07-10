@@ -1,14 +1,15 @@
 ---
 layout: post
-title: -form- 词根
+title: -vinc- = vict 词根
 tags: [english-word]
-categories: [cfblog]
-image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-word/english-word-cover2.png
+categories: [english]
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-word/english-word-cover1.png
 description: >
-  form 的思维导图
+  vinc 的思维导图
 ---
 
-![form]({{site.cdn}}img/blog/english-word/english-word-2.png)
+
+![vinc=vict]({{site.cdn}}img/blog/english-word/english-word-1.png)
 
 ## 我参与的系列项目
 

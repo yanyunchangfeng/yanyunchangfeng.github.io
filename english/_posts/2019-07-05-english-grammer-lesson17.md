@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  三大从句百句斩入门训练62-100
-categories: [cfblog]
+title:  三大从句百句斩进阶训练1
+categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  三大从句百句斩入门训练62-100
+  三大从句百句斩进阶训练1
 ---
 
-PS ：14 课 对应 17 * 1h 课程（中间有合并）
-![三大从句百句斩入门训练1]({{site.cdn}}img/blog/english-grammer/english-grammer-14.png) 
+PS ：17 课 对应 20 * 1h 课程（中间有合并）
+![三大从句百句斩进阶训练1]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson17.png) 
 
 ## 我参与的系列项目
 

@@ -1,16 +1,53 @@
 ---
 layout: post
-title: 状语从句
-tags: [english-grammer]
-categories: [cfblog]
+title: 31-40经典名句
+tags: [english-sentences]
+categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  状语从句的思维导图
+   31-40英语经典名句
 ---
+ ```swift
+  No.31: You have to have a dream so you can get up in the moring. 
+         你得让梦想早上叫你起床。
+ ```
+ ```swift
+  No.32: There is no elevator to success. You have to take stairs. 
+         成功没有捷径，你必须一步一个脚印。
+ ```
+ ```swift
+  No.33: I have not failed. I've just found 10000 ways that won't work.
+         我没有失败，我只是发现了10000种无效的方法而已。
+ ```
+ ```swift
+  No.34: Everything that is done in the world is done by hope.
+         世界上每件被完成的事都是因希望而完成。
+ ```
+ ```swift
+  No.35: Change your thoughts and you change your world.
+         改变你的想法，就改变了你的世界。
+ ```
+ ```swift
+  No.36: Great things are accomplished by talented people who believe they will accomplish them.
+         伟大的事物是被那些有天赋的坚信能够完成的人创造的。
+ ```
+ ```swift
+  No.37: No one ever fail until he fails on the inside.
+         一个人在内心失败之前，是不会失败的。
+ ```
+ ```swift
+  No.38: The surest way not fail is to determine to succeed.
+         最确保不失败的方法就是下定决心成功。
+ ```
+ ```swift
+  No.39: Life is like riding a bicycle. To keep balence you must keep moving.
+         生活就像骑自行车，为了保持你的平衡，你必须持续前进。
+ ```
+ ```swift
+  No.40: Set you goals high, and don't stop till you get there.
+         你要志存高远，不达目的誓不罢休。
+ ```
 
-
-
-![状语从句]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson5.png)
 
 ## 我参与的系列项目
 

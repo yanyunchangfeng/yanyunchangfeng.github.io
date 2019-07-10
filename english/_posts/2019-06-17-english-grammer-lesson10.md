@@ -1,53 +1,15 @@
 ---
 layout: post
-title: 41-50经典名句
-categories: [cfblog]
-tags: [english-sentences]
+title:  五二三法则-英语中含有多重修饰的句式
+categories: [english]
+tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   41-50英语经典名句
+  五二三法则-英语中含有多重修饰的句式
 ---
- ```swift
-  No.41: The important thing is to learn a lesson every time you lose. 
-         每当你失败时，重要的事情是吸取教训。
- ```
- ```swift
-  No.42: Struggle is the only correct way for human begins. 
-         奋斗是唯一的人间正途。
- ```
- ```swift
-  No.43: Where there is great love, there are always miracles.
-         有爱就有奇迹。
- ```
- ```swift
-  No.44: If you put engough effort into achiving result, you will almost certainly achieve it.
-         如果你付出足够的努力去实现目标，你肯定能成功。
- ```
- ```swift
-  No.45: I had the blues because I had no shoes until upon the street, I met a man who had no feet.
-         在我遇到一个没有脚的人之前，我曾因为没有鞋而感到忧伤。
- ```
- ```swift
-  No.46: To be the best,you have to be with the best .
-         为了变得优秀，你必须和优秀的人在一起。
- ```
- ```swift
-  No.47: Where there are parents,there is a place we come from; but  where there aren't parents, there is a place we have to go.
-         父母在，人生尚有来处；父母故，人生只剩归途！
- ```
- ```swift
-  No.48: It is a great honor for me to be here in Shanghai,and to have this opportunity to speak with all of you.
-         来到上海并且有一个可以与你们全体对话的机会对我而言是一个巨大的荣幸。
- ```
- ```swift
-  No.49: What you do today is what matters most.
-         你今天做的事情就是最重要的。
- ```
- ```swift
-  No.50: Where there is will, there is a way.
-         有志者，事竟成。
- ```
 
+
+![五二三法则-英语中断句的奥秘]({{site.cdn}}img/blog/english-grammer/english-grammer-10.png)
 
 ## 我参与的系列项目
 

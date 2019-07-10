@@ -1,16 +1,15 @@
 ---
 layout: post
-title: 五大核心句式，动词时态
+title:  五二三法则-三大从句超精解进阶一
+categories: [english]
 tags: [english-grammer]
-categories: [cfblog]
-image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover2.png
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  五大核心句式，动词时态的思维导图
+  五二三法则-三大从句超精解进阶一
 ---
 
 
-
-![五大核心句式，动词时态]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson2.png)
+![五二三法则-三大从句超精解进阶一]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson11.png) 
 
 ## 我参与的系列项目
 

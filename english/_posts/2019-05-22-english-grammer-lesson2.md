@@ -1,31 +1,16 @@
 ---
 layout: post
-title: 词类、句子成分、动词种类、句式流程图
+title: 五大核心句式，动词时态
 tags: [english-grammer]
-categories: [cfblog]
-image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover1.png
+categories: [english]
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover2.png
 description: >
-  词类、句子成分、动词种类、句式流程图的思维导图
+  五大核心句式，动词时态的思维导图
 ---
 
->    词类=词性  
-
-|  分类 | 名称  | 缩写式 |意义 |  
-| :-----|:----:|:----:| ----:|
-| 实词 | 名词| n.| 命名万事万物的词|
-|     | 动词| vi.vt.|表示动作和状态|
-|     | 代词| pron.|代指名词|
-|     | 形容词| adj.|修饰名词和代词|
-|     | 副词| adv.|修饰形容词、动词和自己|
-|     | 数词| num.|表数量|
-|虚词  | 介词| prep.|表逻辑，表名词，代词间相互关系的词|
-|     | 连词| conj.|表连接、并列、递进、转折|
-|    | 冠词| art.|表泛指、特指，a/an单数形式|
-|    | 感叹词| int.|语气词|
 
 
-
-![词类、句子成分、动词种类、句式流程图]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson1.png)
+![五大核心句式，动词时态]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson2.png)
 
 ## 我参与的系列项目
 

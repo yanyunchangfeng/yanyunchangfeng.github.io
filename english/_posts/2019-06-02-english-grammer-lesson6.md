@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 定语从句
+title: 句子成分和词类交互式对应
 tags: [english-grammer]
-categories: [cfblog]
-image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover4.png
+categories: [english]
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover6.png
 description: >
-  定语从句的思维导图
+  句子成分和词类交互式对应的思维导图
 ---
 
 
-![定语从句]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson4.png)
+![句子成分和词类交互式对应]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson6.png)
 
 ## 我参与的系列项目
 

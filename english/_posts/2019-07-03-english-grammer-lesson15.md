@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  状语从句进阶版
-categories: [cfblog]
+title:  三大从句百句斩进阶训练
+categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  状语从句进阶版
+  三大从句百句斩进阶训练
 ---
 
-PS ：19 课 对应 22 * 1h 课程（中间有合并）
-![状语从句进阶版]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson19.png) 
+PS ：15 课 对应 18 * 1h 课程（中间有合并）
+![三大从句百句斩入门训练1]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson15.png) 
 
 ## 我参与的系列项目
 

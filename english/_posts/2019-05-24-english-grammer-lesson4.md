@@ -1,16 +1,15 @@
 ---
 layout: post
-title: 名词性从句
+title: 定语从句
 tags: [english-grammer]
-categories: [cfblog]
-image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover3.png
+categories: [english]
+image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover4.png
 description: >
-  名词性从句的思维导图
+  定语从句的思维导图
 ---
 
 
-
-![名词性从句](https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-lesson3.png)
+![定语从句]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson4.png)
 
 ## 我参与的系列项目
 

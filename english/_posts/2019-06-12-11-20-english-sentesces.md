@@ -2,7 +2,7 @@
 layout: post
 title: 11-20经典名句
 tags: [english-sentences]
-categories: [cfblog]
+categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/code-format/code-format-cover.png
 description: >
    11-20英语经典名句

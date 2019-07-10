@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  五二三法则-三大从句超精解进阶二
-categories: [cfblog]
+categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
