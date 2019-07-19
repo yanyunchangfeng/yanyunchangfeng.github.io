@@ -8,7 +8,7 @@ description: >
   od 的思维导图
 ---
 
-![form]({{site.cdn}}img/blog/english-word/english-word-5.png)
+![od]({{site.cdn}}img/blog/english-word/english-word-5.png)
 
 ## 我参与的系列项目
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-title: -struct- 词根
+title: -bar-- = -bal- = -ban- 词根
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  struct 的思维导图
+  bar 的思维导图
 ---
 
-![struct]({{site.cdn}}img/blog/english-word/english-word-4.png)
+![bar]({{site.cdn}}img/blog/english-word/english-word-6.png)
 
 ## 我参与的系列项目
 

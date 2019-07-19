@@ -8,7 +8,7 @@ description: >
   prehend 的思维导图
 ---
 
-![form]({{site.cdn}}img/blog/english-word/english-word-3.png)
+![prehend]({{site.cdn}}img/blog/english-word/english-word-3.png)
 
 ## 我参与的系列项目
 
