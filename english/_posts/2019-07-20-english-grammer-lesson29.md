@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  非谓语动词入门1
+title:  非谓语动词入门2
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  非谓语动词入门1
+  非谓语动词入门2
 ---
 
-![非谓语动词入门1]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson28.png) 
+![非谓语动词入门2]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson29.png) 
 
 ## 我参与的系列项目
 
