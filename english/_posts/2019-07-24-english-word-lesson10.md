@@ -1,14 +1,14 @@
 ---
 layout: post
-title: -rect- 词根
+title: -flu- = -flux- 词根
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  rect 的思维导图
+  flux 的思维导图
 ---
 
-![press]({{site.cdn}}img/blog/english-word/english-word-9.png)
+![flux]({{site.cdn}}img/blog/english-word/lesson10.png)
 
 ## 我参与的系列项目
 
