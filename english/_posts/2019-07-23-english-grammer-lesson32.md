@@ -5,10 +5,10 @@ categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  非谓语动词例句解析
+  介词短语
 ---
 
-![非谓语动词例句解析]({{site.cdn}}img/blog/english-grammer/lesson32.png) 
+![介词短语]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson32.png) 
 
 ## 我参与的系列项目
 
