@@ -1,14 +1,14 @@
 ---
 layout: post
-title: -flu- = -flux- 词根
+title: -st- = -sist- = -stat- = -stin- = -stem- 词根
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  flux 的思维导图
+  st 的思维导图
 ---
 
-![flux]({{site.cdn}}img/blog/english-word/english-word-10.png)
+![st]({{site.cdn}}img/blog/english-word/lesson11.png)
 
 ## 我参与的系列项目
 
