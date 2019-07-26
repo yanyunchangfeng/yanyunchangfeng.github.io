@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  名词性从句超精解进阶之主语从句
+title:  名词性从句超精解进阶之表语从句
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  名词性从句超精解进阶之主语从句
+  名词性从句超精解进阶之表语从句
 ---
 
-![名词性从句超精解进阶之主语从句]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson35.png) 
+![名词性从句超精解进阶之表语从句]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson36.png) 
 
 ## 我参与的系列项目
 
