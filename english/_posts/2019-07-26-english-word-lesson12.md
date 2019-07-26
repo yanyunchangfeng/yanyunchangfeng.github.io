@@ -1,6 +1,6 @@
 ---
 layout: post
-title: -st- = -sist- = -stat- = -stin- = -stem- 词根(1)
+title: -st- = -sist- = -stat- = -stin- = -stem- 词根(2)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
@@ -8,7 +8,7 @@ description: >
   st 的思维导图
 ---
 
-![st]({{site.cdn}}img/blog/english-word/lesson11.png)
+![st]({{site.cdn}}img/blog/english-word/lesson12.png)
 
 ## 我参与的系列项目
 
