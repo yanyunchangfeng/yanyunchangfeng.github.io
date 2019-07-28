@@ -8,7 +8,7 @@ description: >
   st 的思维导图
 ---
 
-![st3]({{site.cdn}}img/blog/english-word/lesson13.png)
+![st3]({{site.cdn}}img/blog/english-word/english-word-13.png)
 
 ## 我参与的系列项目
 
