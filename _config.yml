@@ -80,13 +80,13 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              5
 paginate_path:         /yycf-blog/page-:num/
 
-cdn: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/
+cdn: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0/assets/
 
 # Customizaton
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/sidebar-gsybg.jpg
+accent_image:          https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0/assets/img/sidebar-gsybg.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
