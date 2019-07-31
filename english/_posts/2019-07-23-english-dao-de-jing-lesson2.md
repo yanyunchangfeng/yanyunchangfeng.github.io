@@ -8,35 +8,35 @@ description: >
    道德经2
 ---
  ```swift
-    If all man in the world know what is fair,then it is unfair. 
+    If all men in the world know what is fair, then it is unfair. 
          天下皆知美之为美，斯恶矣。
  ```
  ```swift
-    If all men know what is good,then it is not good. 
+    If all men know what is good, then it is not good. 
          皆知善之为善，斯不善已。
  ```
  ```swift
-    For "to be" and "not to be " co-exist,there cannot be one without the other.
+    For "to be" and "not to be " co-exist, there cannot be one without the other.
          故有无相生。
  ```
  ```swift
-    Without "difficult",there cannot be "easy".
+    Without "difficult", there cannot be "easy".
          难易相成。
  ```
  ```swift
-    Without "long",there cannot be "easy".
+    Without "long", there cannot be "short".
          长短相形。
  ```
  ```swift
-    Without "high",there cannot be "low".
+    Without "high", there cannot be "low".
          高下相倾。
  ```
  ```swift
-    Without sound,there cannot be no voice.
+    Without sound, there can be no voice.
          音声相和。
  ```
  ```swift
-    Without "before",there cannot be "after"
+    Without "before", there cannot be "after"
          前后相随。
  ```
  ```swift
