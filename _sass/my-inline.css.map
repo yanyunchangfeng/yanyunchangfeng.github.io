@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA;;;;EAIE;AAGF;;;;;;;EAOE",
+    "sources": [
+        "my-inline.scss"
+    ],
+    "names": [],
+    "file": "my-inline.css"
+}

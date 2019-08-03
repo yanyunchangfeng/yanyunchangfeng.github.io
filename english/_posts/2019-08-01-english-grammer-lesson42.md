@@ -8,7 +8,7 @@ description: >
   介词短语进阶
 ---
 
-![介词短语进阶]({{site.cdn}}img/blog/english-grammer/lesson42.png) 
+![介词短语进阶]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson42.png) 
 
 ## 我参与的系列项目
 

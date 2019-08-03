@@ -1,0 +1,127 @@
+.dl-table a {
+  padding-bottom: 0.4rem;
+}
+
+.dl-table .btn {
+  margin: 1.5rem 0;
+}
+
+.resume-frame {
+  height: calc(100vh - 50px);
+  position: relative;
+  top: -60px;
+}
+
+@media (max-width: 768px) {
+  .resume-frame {
+    top: -30px;
+  }
+}
+
+.serch-input {
+  float: left;
+  position: relative;
+  margin-top: 5px;
+}
+
+.serch-input ul {
+  padding-left: 0;
+}
+
+.serch-input span {
+  display: block;
+}
+
+.serch-input span #search-input {
+  display: inline-block;
+  width: 260px;
+  padding: 10px 0 10px 15px;
+  border-radius: 3px;
+  background-color: #efefef;
+  color: #efefef;
+  text-shadow: none;
+  outline: none;
+  border: none;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+.serch-input span #search-input::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: #efefef;
+}
+
+.serch-input span #search-input:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #efefef;
+}
+
+.serch-input span #search-input ::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #efefef;
+}
+
+.serch-input span #search-input :-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #efefef;
+}
+
+.serch-input span label {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px 15px;
+  text-shadow: 0 1px 0 rgba(19, 74, 70, 0.4);
+  background-color: #4fb1ba;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  color: #ffffff;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+.serch-input span #search-input:focus {
+  border-bottom-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.serch-input span #search-input:focus {
+  color: #4fb1ba;
+}
+
+.serch-input span #search-input:focus::-webkit-input-placeholder {
+  color: #4fb1ba;
+}
+
+.serch-input span #search-input:focus {
+  -webkit-transform: translateX(58px);
+          transform: translateX(58px);
+}
+
+.serch-input #results-container {
+  background-color: #ffffff;
+  color: var(--gray-text);
+  -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  width: 100%;
+}
+
+.serch-input #results-container li {
+  list-style: none;
+  padding: 10px;
+}
+
+.serch-input #results-container li:hover {
+  background: #dddddd;
+}
+
+.serch-input #results-container li a {
+  display: block;
+}
+
+.yycf-about img {
+  -webkit-clip-path: circle(50% at 50% 50%);
+          clip-path: circle(50% at 50% 50%);
+}
+/*# sourceMappingURL=my-style.css.map */
