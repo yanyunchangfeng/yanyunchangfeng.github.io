@@ -12,11 +12,11 @@ description: >
       道冲而用之，或不盈。
  ```
  ```swift
-    It is endless, whence come all things
+    It is endless, whence come all things;
       渊兮似万物之宗。
  ```
  ```swift
-    Where the sharp is blunted,.the knots are united,the glare is softened,all look like dust.
+    Where the sharp is blunted, the knots are united,the glare is softened,all look like dust.
       锉其锐，解其纷，和其光，同其尘。
  ```
  ```swift
