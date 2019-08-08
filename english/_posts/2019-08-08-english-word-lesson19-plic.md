@@ -1,14 +1,14 @@
 ---
 layout: post
-title: -cover- 
+title: -plic- = -ply- = -pli- = -ple- = -plex- = -plo- 
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  cover 的思维导图
+  plic 的思维导图
 ---
 
-![cover]({{site.cdn}}img/blog/english-word/english-word-19-cover-.png)
+![plic]({{site.cdn}}img/blog/english-word/english-word-19-plic.png)
 
 ## 我参与的系列项目
 
