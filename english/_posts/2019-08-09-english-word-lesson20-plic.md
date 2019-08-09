@@ -1,6 +1,6 @@
 ---
 layout: post
-title: -plic- = -ply- = -pli- = -ple- = -plex- = -plo- (1)
+title: -plic- = -ply- = -pli- = -ple- = -plex- = -plo- (2)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
@@ -8,7 +8,7 @@ description: >
   plic 的思维导图
 ---
 
-![plic1]({{site.cdn}}img/blog/english-word/english-word-19-plic.png)
+![plic2]({{site.cdn}}img/blog/english-word/english-word-20-plic.png)
 
 ## 我参与的系列项目
 
