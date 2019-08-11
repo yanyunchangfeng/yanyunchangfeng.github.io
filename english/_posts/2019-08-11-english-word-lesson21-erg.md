@@ -1,6 +1,6 @@
 ---
 layout: post
-title: -erg- = -urg- = -org- (1)
+title: -erg- = -urg- = -org- (2)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
@@ -8,7 +8,7 @@ description: >
   erg 的思维导图
 ---
 
-![erg1]({{site.cdn}}img/blog/english-word/english-word-20-erg.png)
+![erg2]({{site.cdn}}img/blog/english-word/english-word-21-erg.png)
 
 ## 我参与的系列项目
 
