@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  核心句式之虚拟语气
+title:  核心句式之省略句主谓一致
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   核心句式之虚拟语气
+   核心句式之省略句主谓一致
 ---
 
-![ 核心句式之虚拟语气]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson89.png) 
+![核心句式之省略句主谓一致]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson90.png) 
 
 ## 我参与的系列项目
 
