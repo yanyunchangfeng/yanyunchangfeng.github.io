@@ -8,7 +8,7 @@ description: >
   lect 的思维导图
 ---
 
-![lect]({{site.cdn}}img/blog/english-word/english-word-21-lect.png)
+![lect1]({{site.cdn}}img/blog/english-word/english-word-21-lect.png)
 
 ## 我参与的系列项目
 
