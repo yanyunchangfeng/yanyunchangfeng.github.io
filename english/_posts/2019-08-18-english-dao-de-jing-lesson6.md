@@ -1,27 +1,31 @@
 ---
 layout: post
-title: 道德经5
+title: 道德经6
 tags: [english-daodejing]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   道德经5
+   道德经6
 ---
  ```swift
-    Heaven and earth exist for ever. 
-    天长地久。
+    The highest good is like water. 
+    上善若水。
  ```
  ```swift
-    The reason why they exist so long is not that they want to exist; where there is no want, to be and not to be are one.
-    天地所以能长而且久者，以其不自生，故能长生。
+    Water benefits everything by giving without taking or contending.
+    水善利万物而不争。
  ```
  ```swift
-    Therefore for the sage the last becomes the first, the out becomes the in.
-    是以圣人后其身而身先，外其身而身存。
+    It likes the place others dislike, so it follows closely the divine law.
+    处众人之所恶，故几于道。
  ```
  ```swift
-    As he is selfless, all become his self.
-    非以其无私邪!故能成其私。
+    The place should be low，the mind (should be) broad, the gift (should be)kind, the speech (should be)trustworthy,the rule should be sound,the deed (should be)well-done,the action (should be)timely.
+    居善地，心善渊，与善仁，言善信，正善治，事善能，动善时。
+ ```
+ ```swift
+    Without contention, a man is blameless.
+    夫唯不争，故无忧。
  ```
 
 ## 我参与的系列项目
