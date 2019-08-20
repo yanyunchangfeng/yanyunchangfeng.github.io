@@ -1,62 +1,14 @@
 ---
 layout: post
-title: 道德经2
-tags: [english-daodejing]
+title: -nerv- = -neur- 
+tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   道德经2
+  neur 的思维导图
 ---
- ```swift
-    If all men in the world know what is fair, then it is unfair. 
-         天下皆知美之为美，斯恶矣。
- ```
- ```swift
-    If all men know what is good, then it is not good. 
-         皆知善之为善，斯不善已。
- ```
- ```swift
-    For "to be" and "not to be " co-exist, there cannot be one without the other.
-         故有无相生。
- ```
- ```swift
-    Without "difficult", there cannot be "easy".
-         难易相成。
- ```
- ```swift
-    Without "long", there cannot be "short".
-         长短相形。
- ```
- ```swift
-    Without "high", there cannot be "low".
-         高下相倾。
- ```
- ```swift
-    Without sound, there can be no voice.
-         音声相和。
- ```
- ```swift
-    Without "before", there cannot be "after"
-         前后相随。
- ```
- ```swift
-    The contrary complements each other. 
-         对立的事物是相互补足的。
- ```
- ```swift
-    Therefore the sage does everything without interference,teaches everyone without persuasion,and lets everything begin uninitiated grow unpossessed.
-         是以圣人处无为之事，行不言之教。万物作焉而不辞。生而不有，为而不恃。
- ```
- ```swift
-    Everything is done without being his deed,and succeeds without being his success.
-         功成而弗居。
- ```
- ```swift
-    Only when success belong to nobody does it belong to everyone.
-         夫唯弗居，是以不去。
- ```
 
-
+![nerv]({{site.cdn}}img/blog/english-word/english-word-23.png)
 
 ## 我参与的系列项目
 
