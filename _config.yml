@@ -38,7 +38,7 @@ keywords:              ["燕云长风"]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/icons/cf-icon@0,75x.png
+logo:                  https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0/assets/icons/cf-icon@0,75x.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:

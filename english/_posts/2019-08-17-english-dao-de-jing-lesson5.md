@@ -8,6 +8,21 @@ description: >
    道德经5
 ---
  ```swift
+    The vale spirit never dies. 
+    谷神不死。
+ ```
+ ```swift
+    It is the mysterious womb.. 
+    是谓玄牝。
+ ```
+ ```swift
+    The door to the mysterious womb is the origin of heaven and earth. 
+    玄牝之门，是谓天地根。
+ ```swift
+    It lasts as if it ever existed; when used, it is inexhaustible.. 
+    绵绵若存，用之不勤。
+ ```
+ ```swift
     Heaven and earth exist for ever. 
     天长地久。
  ```

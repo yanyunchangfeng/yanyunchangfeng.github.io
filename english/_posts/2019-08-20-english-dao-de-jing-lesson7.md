@@ -15,7 +15,6 @@ description: >
     A whetted and sharpened sword cannot be sharp forever.
     揣而锐之，不可长保;
  ```
- ```
  ```swift
     A houseful of gold and jade cannot be safeguarded.
     金玉满堂，莫之能守。
