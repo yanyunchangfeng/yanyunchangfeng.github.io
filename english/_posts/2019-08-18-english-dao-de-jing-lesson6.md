@@ -7,6 +7,20 @@ image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/eng
 description: >
    道德经6
 ---
+```swift
+   "Empty your mind ,be formless,shapeless - like water.
+   清空你的固有思想，做到无形，无状——正如水一样。
+   Now you put water in a cup, it becomes the cup;
+   你将水倒入杯中，它融为杯子。
+   You put water into a bottle, it becomes the bottle;
+   将水注入瓶内，它变成瓶子。
+   You put it in a teapot, it becomes the bottle;
+   将水倾入茶壶，它就是茶壶。
+   Now water can flow or it can crash.
+   水可流动，亦可破碎。
+   Be water,my friend."
+   要做水，我的朋友！——Bruce Lee 李小龙
+```
  ```swift
     The highest good is like water. 
     上善若水。
@@ -27,6 +41,7 @@ description: >
     Without contention, a man is blameless.
     夫唯不争，故无忧。
  ```
+
 
 ## 我参与的系列项目
 
