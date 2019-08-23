@@ -1,47 +1,14 @@
 ---
 layout: post
-title: 道德经6
-tags: [english-daodejing]
+title:   -preci- = -prais- = -pric- = -priz-
+tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   道德经6
+  preci 的思维导图
 ---
-```swift
-   "Empty your mind ,be formless,shapeless - like water.
-   清空你的固有思想，做到无形，无状——正如水一样。
-   Now you put water in a cup, it becomes the cup;
-   你将水倒入杯中，它融为杯子。
-   You put water into a bottle, it becomes the bottle;
-   将水注入瓶内，它变成瓶子。
-   You put it in a teapot, it becomes the teapot;
-   将水倾入茶壶，它就是茶壶。
-   Now water can flow or it can crash.
-   水可流动，亦可破碎。
-   Be water,my friend."
-   要做水，我的朋友！——Bruce Lee 李小龙
-```
- ```swift
-    The highest good is like water. 
-    上善若水。
- ```
- ```swift
-    Water benefits everything by giving without taking or contending.
-    水善利万物而不争。
- ```
- ```swift
-    It likes the place others dislike, so it follows closely the divine law.
-    处众人之所恶，故几于道。
- ```
- ```swift
-    The place should be low，the mind (should be) broad, the gift (should be)kind, the speech (should be)trustworthy,the rule should be sound,the deed (should be)well-done,the action (should be)timely.
-    居善地，心善渊，与善仁，言善信，正善治，事善能，动善时。
- ```
- ```swift
-    Without contention, a man is blameless.
-    夫唯不争，故无忧。
- ```
 
+![preci]({{site.cdn}}img/blog/english-word/english-word-26-preci.png)
 
 ## 我参与的系列项目
 
