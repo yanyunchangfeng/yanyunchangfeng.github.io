@@ -1,32 +1,14 @@
 ---
 layout: post
-title: 道德经7
-tags: [english-daodejing]
+title:   -miss- = -mit- (2)
+tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   道德经7
+  miss 的思维导图
 ---
- ```swift
-    Don't hold your fill but refrain from excess. 
-    持而盈之，不如其己。
- ```
- ```swift
-    A whetted and sharpened sword cannot be sharp forever.
-    揣而锐之，不可长保;
- ```
- ```swift
-    A houseful of gold and jade cannot be safeguarded.
-    金玉满堂，莫之能守。
- ```
- ```swift
-    Arrogance of wealth and power will bring ruin.
-    富贵而骄，自遗其咎。
- ```
- ```swift
-    Withdrawal after success conforms to the divine law.
-    功遂身退，天之道。
- ```
+
+![miss2]({{site.cdn}}img/blog/english-word/english-word-27-miss.png)
 
 ## 我参与的系列项目
 

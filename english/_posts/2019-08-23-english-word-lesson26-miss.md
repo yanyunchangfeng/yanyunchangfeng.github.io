@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   -miss- = -mit-
+title:   -miss- = -mit- (1)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
@@ -8,7 +8,7 @@ description: >
   miss 的思维导图
 ---
 
-![miss]({{site.cdn}}img/blog/english-word/english-word-26-miss.png)
+![miss1]({{site.cdn}}img/blog/english-word/english-word-26-miss.png)
 
 ## 我参与的系列项目
 
