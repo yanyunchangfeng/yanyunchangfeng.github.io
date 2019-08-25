@@ -1,14 +1,14 @@
 ---
 layout: post
-title:   -sci-
+title:   -sum- = -sumpt- (1)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  sci 的思维导图
+  sum 的思维导图
 ---
 
-![sci]({{site.cdn}}img/blog/english-word/english-word-28-sci.png)
+![sum1]({{site.cdn}}img/blog/english-word/english-word-28-sum.png)
 
 ## 我参与的系列项目
 
