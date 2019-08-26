@@ -25,7 +25,7 @@ description: >
  ```
  ```swift
     I don't know whence it came, it seems to exist before God.
-    吾不知谁之子，象帝之先
+    吾不知谁之子，象帝之先。
  ```
  ```swift
     Heaven and earth are ruthless, they treat everything as straw or dog .

@@ -1,43 +1,75 @@
 ---
 layout: post
-title: 道德经5
+title: 道德经8
 tags: [english-daodejing]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   道德经5
+   道德经8
 ---
  ```swift
-    The vale spirit never dies. 
-    谷神不死。
+    Can body and soul united never server?
+    载营魄抱一，能无离乎？
  ```
  ```swift
-    It is the mysterious womb.
-    是谓玄牝。
+    Can the controlled breath be softed as a baby's?
+    专气致柔，能如婴儿乎?
  ```
  ```swift
-    The door to the mysterious womb is the origin of heaven and earth. 
-    玄牝之门，是谓天地根。
+    Can the purified mental mirror be free from blemish?
+    涤除玄览，能无疵乎？
  ```
  ```swift
-    It lasts as if it ever existed; when used, it is inexhaustible.
-    绵绵若存，用之不勤。
+    Can a people-loving ruler not interfere in the state affairs?
+    爱国治民，能无为乎？
  ```
  ```swift
-    Heaven and earth exist for ever. 
-    天长地久。
+    Can the lower doors not open and close as the supper doors in heaven ?
+    天门开阖，能为雌乎?
  ```
  ```swift
-    The reason why they exist so long is not that they want to exist; where there is no want, to be and not to be are one.
-    天地所以能长而且久者，以其不自生，故能长生。
+    Is it possible to understand and make understand without knowledge?
+    明白四达，能无知乎？
  ```
  ```swift
-    Therefore for the sage the last becomes the first, the out becomes the in.
-    是以圣人后其身而身先，外其身而身存。
+    Give life and make live , but lay no claim, benefit but do not interfere,lead but do not rule
+    生而畜之，生而不有，为而不持，长而不宰，
  ```
  ```swift
-    As he is selfless, all become his self.
-    非以其无私邪!故能成其私。
+    Such is the mysterious virtue.
+    是谓玄德。
+ ```
+ ```swift
+    Thirty spokes radiate from a hub.
+    三十幅共一毂，
+ ```
+ ```swift
+    When there is  nothing in the hub, the wheel can roll.
+    当其无，有车之用。，
+ ```
+ ```swift
+    Turn clay to make a vessel.
+    埏shan埴以为器，
+ ```
+ ```swift
+    When empty，the vessel can be used.
+    当其无，有器之用。
+ ```
+ ```swift
+    Build a room with doors and windows.
+    凿户牖you以为室,
+ ```
+ ```swift
+    When empty ,the room can be used as dewlling.
+    当其无，有室之用。
+ ```
+ ```swift
+    When there is something，it is beneficial;
+    故有之以为利，
+ ```
+ ```swift
+    When empty， it is useful.
+    无之以为用。
  ```
 
 ## 我参与的系列项目
