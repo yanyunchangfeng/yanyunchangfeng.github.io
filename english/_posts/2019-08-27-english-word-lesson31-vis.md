@@ -8,7 +8,7 @@ description: >
   vis 的思维导图
 ---
 
-![vis1]({{site.cdn}}img/blog/english-word/english-word-31-vis-l.png)
+![vis1]({{site.cdn}}img/blog/english-word/english-word-31-vis.png)
 
 ## 我参与的系列项目
 

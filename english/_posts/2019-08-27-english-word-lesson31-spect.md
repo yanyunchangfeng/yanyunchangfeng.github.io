@@ -8,7 +8,7 @@ description: >
   spect 的思维导图
 ---
 
-![spect3]({{site.cdn}}img/blog/english-word/english-word-31-spect.png)
+![spect3]({{site.cdn}}img/blog/english-word/english-word-31-spect-ok.png)
 
 ## 我参与的系列项目
 
