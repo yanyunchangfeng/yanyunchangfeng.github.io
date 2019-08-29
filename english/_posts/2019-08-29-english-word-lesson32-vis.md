@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   -vis- = -vid- (1)
+title:   -vis- = -vid- (2)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
@@ -8,7 +8,7 @@ description: >
   vis 的思维导图
 ---
 
-![vis1]({{site.cdn}}img/blog/english-word/english-word-31-vis-ok.png)
+![vis2]({{site.cdn}}img/blog/english-word/english-word-32-vis.png)
 
 ## 我参与的系列项目
 
