@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   -lat- (1)
+title:   -lat- (2)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
@@ -8,7 +8,7 @@ description: >
   lat 的思维导图
 ---
 
-![lat]({{site.cdn}}img/blog/english-word/english-word-32-lat.png)
+![lat]({{site.cdn}}img/blog/english-word/english-word-33-lat.png)
 
 ## 我参与的系列项目
 
