@@ -1,14 +1,14 @@
 ---
 layout: post
-title:   -lat- (2)
+title:   -sim- =-sem- = -simil- = -simul- = -sembl- (1)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  lat 的思维导图
+  sim 的思维导图
 ---
 
-![lat]({{site.cdn}}img/blog/english-word/english-word-33-lat-ok.png)
+![lasimt]({{site.cdn}}img/blog/english-word/english-word-33-sim.png)
 
 ## 我参与的系列项目
 
