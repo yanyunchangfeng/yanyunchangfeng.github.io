@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   -sim- =-sem- = -simil- = -simul- = -sembl- (1)
+title:   -sim- =-sem- = -simil- = -simul- = -sembl- (2)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
@@ -8,7 +8,7 @@ description: >
   sim 的思维导图
 ---
 
-![sim1]({{site.cdn}}img/blog/english-word/english-word-33-sim.png)
+![sim2]({{site.cdn}}img/blog/english-word/english-word-34-sim.png)
 
 ## 我参与的系列项目
 
