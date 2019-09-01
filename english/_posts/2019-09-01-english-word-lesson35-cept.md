@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   -cept- = -cap- = -capt- = -ceiv- = -ceit- = -cip- = -cup- (1)
+title:   -cept- = -cap- = -capt- = -ceiv- = -ceit- = -cip- = -cup- (2)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
@@ -8,7 +8,7 @@ description: >
   cept 的思维导图
 ---
 
-![cept1]({{site.cdn}}img/blog/english-word/english-word-34-cept.png)
+![cept2]({{site.cdn}}img/blog/english-word/english-word-35-cept.png)
 
 ## 我参与的系列项目
 
