@@ -1,14 +1,14 @@
 ---
 layout: post
-title:   -discip-
+title:   -cept- = -cap- = -capt- = -ceiv- = -ceit- = -cip- = -cup- (3)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  discip 的思维导图
+  cept 的思维导图
 ---
 
-![discip]({{site.cdn}}img/blog/english-word/english-word-34-descrip.png)
+![cept3]({{site.cdn}}img/blog/english-word/english-word-36-cept.png)
 
 ## 我参与的系列项目
 
