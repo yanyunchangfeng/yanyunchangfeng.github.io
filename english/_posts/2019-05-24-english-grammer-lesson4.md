@@ -9,7 +9,7 @@ description: >
 ---
 
 
-![定语从句]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson4.png)
+![定语从句]({{site.cdn}}img/blog/english-grammer/english-grammer-les4.png)
 
 ## 我参与的系列项目
 

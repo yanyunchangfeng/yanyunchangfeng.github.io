@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 语法七要素-两大短语
+title: 句子成分与短语完全解析
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  语法七要素-两大短语
+  句子成分与短语完全解析
 ---
 
 
-![语法七要素-两大短语]({{site.cdn}}img/blog/english-grammer/english-grammer-8.png)
+![句子成分与短语完全解析]({{site.cdn}}img/blog/english-grammer/english-grammer-les8.png)
 
 ## 我参与的系列项目
 

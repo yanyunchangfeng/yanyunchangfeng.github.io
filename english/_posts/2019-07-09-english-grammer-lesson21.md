@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  状语从句进阶版1
+title:  定语从句进阶版2
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  状语从句进阶版1
+  定语从句进阶版2
 ---
 
-PS ：19 课 对应 22 * 1h 课程（中间有合并）
-![状语从句进阶版]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson19.png) 
+![定语从句进阶版2]({{site.cdn}}img/blog/english-grammer/english-grammer-les21.png) 
 
 ## 我参与的系列项目
 

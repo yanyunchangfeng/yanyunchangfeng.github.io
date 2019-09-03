@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  五二三法则——三大从句超精解进阶一
+title:  三大从句百句斩进阶训练1
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  五二三法则——三大从句超精解进阶一
+  三大从句百句斩进阶训练1
 ---
 
-![五二三法则——三大从句超精解进阶一]({{site.cdn}}img/blog/english-grammer/english-grammer-les14.png) 
+![三大从句百句斩进阶训练1]({{site.cdn}}img/blog/english-grammer/english-grammer-les18.png) 
 
 ## 我参与的系列项目
 

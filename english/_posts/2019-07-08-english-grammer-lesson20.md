@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  定语从句进阶版2
+title:  三大从句百句斩进阶训练2
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  定语从句进阶版2
+  三大从句百句斩进阶训练2
 ---
 
-PS ：18 课 对应 21 * 1h 课程（中间有合并）
-![定语从句进阶版2]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson18.png) 
+![三大从句百句斩进阶训练2]({{site.cdn}}img/blog/english-grammer/english-grammer-les20.png) 
 
 ## 我参与的系列项目
 

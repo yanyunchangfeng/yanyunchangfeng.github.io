@@ -8,7 +8,7 @@ description: >
   discip 的思维导图
 ---
 
-![discip]({{site.cdn}}img/blog/english-word/english-word-34-descrip.png)
+![discip]({{site.cdn}}img/blog/english-word/english-word-34-discip.png)
 
 ## 我参与的系列项目
 

@@ -10,7 +10,7 @@ description: >
 
 
 
-![五大核心句式，动词时态]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson2.png)
+![五大核心句式，动词时态]({{site.cdn}}img/blog/english-grammer/english-grammer-les2.png)
 
 ## 我参与的系列项目
 

@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  五二三法则-英语中断句的奥秘
+title:  句子成分超精解的奥秘
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  五二三法则-英语中断句的奥秘
+  句子成分超精解的奥秘
 ---
 
 
-![五二三法则-英语中断句的奥秘]({{site.cdn}}img/blog/english-grammer/english-grammer-9.png)
+![句子成分超精解的奥秘]({{site.cdn}}img/blog/english-grammer/english-grammer-les9.png)
 
 ## 我参与的系列项目
 

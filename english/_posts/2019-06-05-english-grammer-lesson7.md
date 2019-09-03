@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 句子成分超精解的奥秘
+title: 句子成分和词类交互式对应
 tags: [english-grammer]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover7.png
 description: >
-  句子成分超精解的奥秘的思维导图
+  句子成分和词类交互式对应
 ---
 
 
-![句子成分超精解的奥秘]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson7.png)
+![句子成分和词类交互式对应]({{site.cdn}}img/blog/english-grammer/english-grammer-les7.png)
 
 ## 我参与的系列项目
 

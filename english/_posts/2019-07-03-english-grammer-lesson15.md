@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  三大从句百句斩进阶训练
+title:  五二三法则——三大从句超精解进阶二
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  三大从句百句斩进阶训练
+  五二三法则——三大从句超精解进阶二
 ---
 
-PS ：15 课 对应 18 * 1h 课程（中间有合并）
-![三大从句百句斩入门训练1]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson15.png) 
+![五二三法则——三大从句超精解进阶二]({{site.cdn}}img/blog/english-grammer/english-grammer-les15.png) 
 
 ## 我参与的系列项目
 

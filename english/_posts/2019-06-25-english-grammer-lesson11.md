@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  五二三法则-三大从句超精解进阶一
+title:  语法七要素-两大短语
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  五二三法则-三大从句超精解进阶一
+  语法七要素-两大短语
 ---
 
 
-![五二三法则-三大从句超精解进阶一]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson11.png) 
+![语法七要素-两大短语]({{site.cdn}}img/blog/english-grammer/english-grammer-les11.png) 
 
 ## 我参与的系列项目
 
