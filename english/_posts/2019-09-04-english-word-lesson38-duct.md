@@ -1,14 +1,14 @@
 ---
 layout: post
-title:   -sert-
+title:   -duct- = -duc-  (2)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  sert 的思维导图
+  duct 的思维导图
 ---
 
-![sert]({{site.cdn}}img/blog/english-word/english-word-37-sert.png)
+![duct2]({{site.cdn}}img/blog/english-word/english-word-38-duct.png)
 
 ## 我参与的系列项目
 
