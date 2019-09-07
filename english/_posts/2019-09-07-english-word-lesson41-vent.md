@@ -1,14 +1,14 @@
 ---
 layout: post
-title:   -part-  (1)
+title:   -ven- = -vent-
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  part 的思维导图
+  vent 的思维导图
 ---
 
-![part]({{site.cdn}}img/blog/english-word/english-word-40-part.png)
+![vent]({{site.cdn}}img/blog/english-word/english-word-41-vent.png)
 
 ## 我参与的系列项目
 
