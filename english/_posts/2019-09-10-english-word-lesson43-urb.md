@@ -1,14 +1,14 @@
 ---
 layout: post
-title:   -tra- = -tract- = -treat-  (1)
+title:   -urb-
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  tra 的思维导图
+  urb 的思维导图
 ---
 
-![tra1]({{site.cdn}}img/blog/english-word/english-word-42-tra.png)
+![urb]({{site.cdn}}img/blog/english-word/english-word-43-urb.png)
 
 ## 我参与的系列项目
 
