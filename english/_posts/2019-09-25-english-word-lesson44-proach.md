@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  介词短语综合强化训练2
+title:   -proach- = -proxim-
+tags: [english-word]
 categories: [english]
-tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   介词短语综合强化训练2
+  proach 的思维导图
 ---
 
-![介词短语综合强化训练2]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson45.png) 
+![proach]({{site.cdn}}img/blog/english-word/english-word-44-proach-l.png)
 
 ## 我参与的系列项目
 
