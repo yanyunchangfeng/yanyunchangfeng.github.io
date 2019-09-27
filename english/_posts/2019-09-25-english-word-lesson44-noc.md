@@ -8,7 +8,7 @@ description: >
   noc 的思维导图
 ---
 
-![noc]({{site.cdn}}img/blog/english-word/english-word-44-noc-l.png)
+![noc]({{site.cdn}}img/blog/english-word/english-word-44-noc.png)
 
 ## 我参与的系列项目
 

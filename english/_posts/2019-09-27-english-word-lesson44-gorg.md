@@ -1,14 +1,14 @@
 ---
 layout: post
-title:   -proach- = -proxim-
+title:   -gorg- 
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  proach 的思维导图
+  gorg 的思维导图
 ---
 
-![proach]({{site.cdn}}img/blog/english-word/english-word-44-proach.png)
+![gorg]({{site.cdn}}img/blog/english-word/english-word-44-gorg.png)
 
 ## 我参与的系列项目
 
