@@ -51,6 +51,30 @@ description: >
     Men may pass away, but the law will never. 
     没身不殆。
  ```
+ ```swift
+    What is the best rule? None knows there is a ruler.
+    太上，下知有之；
+ ```
+ ```swift
+    What is the second best? The ruler is loved and praised.
+    其次，亲而誉之。
+ ```
+ ```swift
+    What comes next? He is feared.
+    其次，畏之；
+ ```
+ ```swift
+    Still next? He is disobeyed.
+    其次，侮之。
+ ```
+ ```swift
+    For he is not trustworthy enough or not at all.
+    信不足，焉有不信焉。
+ ```
+ ```swift
+    When things are done, he should let people say that all is natural.
+    功成事遂，百姓皆谓：我自然。
+ ```
 
 ## 我参与的系列项目
 
