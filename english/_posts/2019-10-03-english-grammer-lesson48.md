@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  五二三法则之中英文互译2
+title:  五二三法则之中英文互译3
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   五二三法则之中英文互译2
+   五二三法则之中英文互译3
 ---
 
-![五二三法则之中英文互译2]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson47.png) 
+![五二三法则之中英文互译3]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson48.png) 
 
 ## 我参与的系列项目
 
