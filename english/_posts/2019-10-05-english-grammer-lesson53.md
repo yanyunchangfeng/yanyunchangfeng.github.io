@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  五二三法则之中英文互译5《钢铁侠 I》
+title:  五二三法则之中英文互译8《钢铁侠 I》
 categories: [english]
 tags: [english-grammer]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   五二三法则之中英文互译5《钢铁侠 I》
+   五二三法则之中英文互译8《钢铁侠 I》
 ---
 
-![五二三法则之中英文互译5《钢铁侠 I》]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson50.png) 
+![五二三法则之中英文互译8《钢铁侠 I》]({{site.cdn}}img/blog/english-grammer/english-grammer-lesson53.png) 
 
 ## 我参与的系列项目
 
