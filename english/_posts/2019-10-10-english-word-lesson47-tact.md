@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  -tact- = -tang- = -tag- = -ting- = -tig- = -tast- (1)
+title:  -tact- = -tang- = -tag- = -ting- = -tig- = -tast- (2)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
@@ -8,7 +8,7 @@ description: >
   tact 的思维导图
 ---
 
-![tact1]({{site.cdn}}img/blog/english-word/english-word-46-tact.png)
+![tact2]({{site.cdn}}img/blog/english-word/english-word-47-tact.png)
 
 ## 我参与的系列项目
 
