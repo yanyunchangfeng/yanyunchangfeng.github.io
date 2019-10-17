@@ -40,10 +40,6 @@ description: >
     公乃全，全乃天，
  ```
  ```swift
-    Those who follow the devine law will not be full to the brim.
-    保此道者不欲盈。
- ```
- ```swift
     Heaven is divine law, and the devine law is eternal.
     天乃道，道乃久，
  ```

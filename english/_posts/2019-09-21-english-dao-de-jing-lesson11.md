@@ -48,7 +48,7 @@ description: >
     夫唯不盈，故能蔽不新成。
  ```
  ```swift
-    Do your utmost  to be empty-mided and hold fast to tranquility.
+    Do your utmost  to be empty-minded and hold fast to tranquility.
     致虚极，守静笃。
  ```
 
