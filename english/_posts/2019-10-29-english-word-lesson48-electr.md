@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  -clud- = -clus- = -clos- = -clois- = -claus- = -clot- (1)
+title:  -electr- (2)
 tags: [english-word]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-  clud 的思维导图
+  electr 的思维导图
 ---
 
-![clud1]({{site.cdn}}img/blog/english-word/english-word-48-clud.png)
+![electr2]({{site.cdn}}img/blog/english-word/english-word-48-electr.png)
 
 ## 我参与的系列项目
 
