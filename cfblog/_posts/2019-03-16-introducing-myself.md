@@ -4,11 +4,11 @@ title: 燕云长风笔名的由来
 categories: [cfblog]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/icons/yanyunchangfeng.png
 description: >
-  大漠穷秋赠予笔名燕云长风
+  燕云长风笔名
 excerpt_separator: <!--more-->
 ---
 
-你好，我是徐晓东，笔名燕云长风。大漠穷秋于2019-03-16 21:22 赠此笔名。
+你好，我是燕云长风。
 寓意：结合李白著名的边塞诗《关山月》 取【燕云长风】—— 长风几万里，吹度玉门关。
 
 ## 我的个人博客  

@@ -1,82 +1,45 @@
 ---
 layout: post
-title: 道德经15
+title: 道德经16
 tags: [english-daodejing]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   道德经15
+   道德经16
 ---
  ```swift
-    The content of great virtue conforms to the divine law.
-    孔德之容，惟道是从。
+    So the sage holds on to one to be the model for the world.
+    是以圣人抱一，为天下式。
  ```
  ```swift
-    The divine law is something which seems to be and not to be.
-    道之为物，惟恍惟惚。
+    He does not show himself, so he is seen everywhere.
+    不自见，故明；
  ```
  ```swift
-    What seems to exist and does not exist?
-    惚兮恍兮，
+    He does not assert himself, so he is well-known.
+    不自是，故彰；
  ```
  ```swift
-    It is the image.
-    其中有象；
+    He does not boast, so he wins success.
+    不自伐，故有功；
  ```
  ```swift
-    What seems not to exist but exists?
-    恍兮惚兮，
+    He is not proud, so he can lead.
+    不自矜，故长。
  ```
  ```swift
-    It is the image of something.
-    其中有物。
+    As he contends for nothing, none in the world could contend with him.
+    夫唯不争，故天下莫能与之争。
  ```
  ```swift
-    What seems deep and dark?
-    窈兮冥兮，
+    Is it not true for the ancients to say, “Stooping, you will be preserved”?
+    古之所谓∶曲则全者，岂虚言哉！
  ```
  ```swift
-    It is the essence.
-    其中有精；
+    It is indeed the whole truth  which lead to all the ways.
+    诚全而归之。
  ```
- ```swift
-    The essence is very true, for we believe in it.
-    其精甚真；其中有信。
- ```
- ```swift
-    From ancient times to present day its name cannot be erased so that we know the fathers of all things.
-    自古及今，其名不去，以阅众甫。
- ```
- ```swift
-    How can I know what these fathers look like?
-    吾何以知众甫之状哉？
- ```
- ```swift
-    By means of this.
-    以此。
- ```
- ```swift
-    Stooping, you will be preserved.
-    曲则全，
- ```
- ```swift
-    Wronged, you will be righted.
-    枉则直，
- ```
- ```swift
-    Hollowed, you will be filled.
-    洼则盈，
- ```
- ```swift
-    Worn out, you will be renewed.
-    敝则新，
- ```
- ```swift
-    Having little, you may gain; having much, you may be at a loss.
-    少则得，多则惑。
- ```
-
-
+ 
 
 ## 我参与的系列项目
 
