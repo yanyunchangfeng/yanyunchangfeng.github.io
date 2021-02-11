@@ -48,10 +48,38 @@ excerpt_separator: <!--more-->
      4.6  Controller的命名以Ctrl结尾，首字母大写，以驼峰式命名，如DiskCreationCtrl
      4.7  template的html尽量不要内联模式，最好创建一个html用外联模式
      4.8  angular的规范应该遵从上面三类的规范，比如单一原则中，一个controller.js里面应该只放一个controller，这个controller只做完成某一个功能；
+5 .注释规范
+    export default class Claculate{ 
+
+   /**
+     *
+     *
+     * [computeBonus 奖金范围预测]
+     * @param {number} active [当前选中的号码]
+     * @param {string} play_name [当前的玩法标识]
+     * @return {array}     [奖金范围]
+     * @memberof Claculate
+     */
+    computeBonus(active,play_name){
+       const play = play_name.split('');
+       const self = this;
+       let arr  = new Array(play[1]*1).fill(0);
+       if(play[0] === 'r'){
+           //min_active 最小命中
+           let min_active = 5-(11-active);
+       }
+    }
+}
+以类原型方法为例 
+
+1.首先空两行，第三行开始用中括号说明方法名称及释意
+2.需要接受的参数@param 类型写在大括号里面 空格 变量名 中括号说明参数释意
+3.返回值 @return 类型写在大括号里 空格 中括号说明返回值释意  【无返回值可不写】
+4.@memberof 空格 类名 （意思是解释此函数隶属于那个类下） 【不是类成员可以不写
 ```
 ## 我参与的系列项目
 
-1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：美人鱼，这是一个微型Blog系统，前端基于Angular7.0 + PrimeNG7.1.0。（GVIP 码云最有价值的开源项目 3190 ☆)
+1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：美人鱼，这是一个微型Blog系统，前端基于Angular7.0 + PrimeNG7.1.0。（GVIP 码云最有价值的开源项目 5000 ☆)
 2. [NiceFish-React]( https://github.com/damoqiongqiu/NiceFish-React)：这是React版的实现，和 NiceFish Angular 版本保持风格一致。采用React Hooks 16.8.3 版本，使用TypeScript、Ant Design组件库以及Bootstrap v4.2.1 开发。  (7 ☆)
 3. [OpenWMS-Frontend](https://gitee.com/mumu-osc/OpenWMS-Frontend)：OpenWMS项目前端基于 Angular 7.0 + PrimeNG 7.1.0。  (已推荐 200 ☆)
 4. [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud)：这是NiceFish的服务端代码，基于SpringCloud。已经完成了一些基本的功能，如 SpringSecurity+OAuth2+JWT 实现SSO，文章、用户、评论等的分页查询等。如果你需要与这个后端代码进行对接，请检出本项目的 for-spring-cloud 分支。 (已推荐 115 ☆)
