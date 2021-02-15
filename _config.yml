@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   yanyunchangfeng.com
+url:                   yanyunchangfeng.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -354,6 +354,7 @@ comments :
   gitalk_repo: 'yanyunchangfeng.github.io'
   gitalk_owner: 'yanyunchangfeng'
   gitalk_admin: ['yanyunchangfeng']
+  proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
   # gitalk_id: location.pathname
   # gittalk_distractionFreeMode: true
 
