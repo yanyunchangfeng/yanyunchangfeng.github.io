@@ -1,63 +1,31 @@
 ---
 layout: post
-title: 道德经20
+title: 道德经24
 tags: [english-daodejing]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   道德经20
+   道德经24
 ---
  ```swift
-    Therefore, a sage is good at helping people without rejecting anyone.
-    是以圣人长善于救人，故无弃人。
+    It needs observation  to know others, but （it needs） reflection to know oneself.
+    知人者，智，自知者，明。
  ```
  ```swift
-    He is good at saving things without abandoning anything.
-    常善救物，故无弃物。
+    Physically strong，one can conquer others；mentally strong ，one can conquer oneself.
+    胜人者，有力，自胜者，强。
  ```
  ```swift
-    This is called invisible wisdom.
-    是谓袭明。
+    Content ， one is rich; with strong will, one can persevere.
+    知足者，富。强行者，有志。
  ```
  ```swift
-    Thus a sage is the teacher of common people, and the common people are the stuff for good men.
-    故善人者，不善人之师，不善人者善人之资。
+    Staying where one should, one can endure long;
+    不失其所者，久。
  ```
  ```swift
-    If the teacher is not honered and the stuff not valued, even a wise will be at a loss.
-    不贵其师，不爱其资，虽智大迷，
- ```
- ```swift
-    This is the essential secret.
-    是谓要秒。
- ```
- ```swift
-    Learn to be hard as man and  remain soft as woman like a stream in the world.
-    知其雄，守其雌，为天下溪。
- ```
- ```swift
-    This stream in the world will not depart from the way of virtue but rejuvenate to its infancy.
-    为天下溪，常德不离，复归于婴儿。
- ```
- ```swift
-    Learn to be bright and remain in the dark ,and try to be a model for the world.
-    知其白，守其黑（辱），为天下式（谷）。
- ```
- ```swift
-    A model for the world will not stray from the way of virtue but stretch to infinity. 
-    为天下式(谷)，常德不忒(乃足)，复归于无极  (朴)。
- ```
- ```swift
-    Simplicity may be diversified into instruments.
-    朴散则为器，
- ```
- ```swift
-    When a sage uses the instruments,he becomes the ruler.
-    圣人用之则为官长。
- ```
- ```swift
-    There should be unity in the rule of the great sage.
-    故大制不割。
+    Unforgettable， one is immortal.
+    死而不忘者，寿。
  ```
 
 ## 我参与的系列项目

@@ -1,63 +1,43 @@
 ---
 layout: post
-title: 道德经20
+title: 道德经22
 tags: [english-daodejing]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   道德经20
+   道德经22
 ---
  ```swift
-    Therefore, a sage is good at helping people without rejecting anyone.
-    是以圣人长善于救人，故无弃人。
+    Weapons are tools of evil omen,detested by all.
+    夫佳兵者，不祥之器，
  ```
  ```swift
-    He is good at saving things without abandoning anything.
-    常善救物，故无弃物。
+    Those who follow the devine law will not resort to them.
+    物或恶之，故有道者不处。
  ```
  ```swift
-    This is called invisible wisdom.
-    是谓袭明。
+    A worthy man prefers the left in time of peace and the right in time of war.
+    君子居则贵左，用兵则贵右。
  ```
  ```swift
-    Thus a sage is the teacher of common people, and the common people are the stuff for good men.
-    故善人者，不善人之师，不善人者善人之资。
+    Weapons are tools of evil omen,not  be used by worthy men.
+    兵者不详之器，非君子之器，
  ```
  ```swift
-    If the teacher is not honered and the stuff not valued, even a wise will be at a loss.
-    不贵其师，不爱其资，虽智大迷，
+    When they are compelled to use them,the less often,the better.
+    不得已而用之，恰谈为上。
  ```
  ```swift
-    This is the essential secret.
-    是谓要秒。
+    Victory should not be glorified.
+    胜而不美，
  ```
  ```swift
-    Learn to be hard as man and  remain soft as woman like a stream in the world.
-    知其雄，守其雌，为天下溪。
+    To glorify it is to take delight in killing.
+    而美之者，是乐杀人。
  ```
  ```swift
-    This stream in the world will not depart from the way of virtue but rejuvenate to its infancy.
-    为天下溪，常德不离，复归于婴儿。
- ```
- ```swift
-    Learn to be bright and remain in the dark ,and try to be a model for the world.
-    知其白，守其黑（辱），为天下式（谷）。
- ```
- ```swift
-    A model for the world will not stray from the way of virtue but stretch to infinity. 
-    为天下式(谷)，常德不忒(乃足)，复归于无极  (朴)。
- ```
- ```swift
-    Simplicity may be diversified into instruments.
-    朴散则为器，
- ```
- ```swift
-    When a sage uses the instruments,he becomes the ruler.
-    圣人用之则为官长。
- ```
- ```swift
-    There should be unity in the rule of the great sage.
-    故大制不割。
+    Those delighted in killing cannot do what they will in the world.
+    夫乐杀人者，则不可得志于天下矣。
  ```
 
 ## 我参与的系列项目

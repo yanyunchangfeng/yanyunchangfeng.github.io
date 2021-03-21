@@ -1,63 +1,59 @@
 ---
 layout: post
-title: 道德经20
+title: 道德经23
 tags: [english-daodejing]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   道德经20
+   道德经23
 ---
  ```swift
-    Therefore, a sage is good at helping people without rejecting anyone.
-    是以圣人长善于救人，故无弃人。
+    Good omen keeps to the left, and evil omen to the right.
+    吉事尚左，凶事尚右。
  ```
  ```swift
-    He is good at saving things without abandoning anything.
-    常善救物，故无弃物。
+    A licutenant general keeps to the left, and a full general to the right as in the funeral service.
+    偏将军居左，上将军居右。言以丧礼处之。
  ```
  ```swift
-    This is called invisible wisdom.
-    是谓袭明。
+    The heavier the casualties, the deeper the mourning should be.
+    杀人之众，以悲哀泣之，
  ```
  ```swift
-    Thus a sage is the teacher of common people, and the common people are the stuff for good men.
-    故善人者，不善人之师，不善人者善人之资。
+    Even a victory should be celebrated in funeral ceremonry.
+    战胜以丧礼处之。
  ```
  ```swift
-    If the teacher is not honered and the stuff not valued, even a wise will be at a loss.
-    不贵其师，不爱其资，虽智大迷，
+    The devine law is changeless, it is nameless simplicity.
+    道，常无名，
  ```
  ```swift
-    This is the essential secret.
-    是谓要秒。
+    No matter how little and simple, the world cannot subdue it.
+    朴虽小，天下莫能臣也。
  ```
  ```swift
-    Learn to be hard as man and  remain soft as woman like a stream in the world.
-    知其雄，守其雌，为天下溪。
+    If rulers can observe it,everything will be subject to their rule.
+    候王若能守之，万物将自宾。
  ```
  ```swift
-    This stream in the world will not depart from the way of virtue but rejuvenate to its infancy.
-    为天下溪，常德不离，复归于婴儿。
+    When heaven and earth mingle,sweet dew will fall.
+    天地相合，以降甘露，
  ```
  ```swift
-    Learn to be bright and remain in the dark ,and try to be a model for the world.
-    知其白，守其黑（辱），为天下式（谷）。
+    Not ordered by people, it falls without prejudice.
+    民莫之令而自均。
  ```
  ```swift
-    A model for the world will not stray from the way of virtue but stretch to infinity. 
-    为天下式(谷)，常德不忒(乃足)，复归于无极  (朴)。
+    When things begin to be named,names come into being.
+    始制有名，名亦既有，
  ```
  ```swift
-    Simplicity may be diversified into instruments.
-    朴散则为器，
+    The beginning implies the end；to know the end is to avoid danger.
+    夫亦将知止，知止可以不殆。
  ```
  ```swift
-    When a sage uses the instruments,he becomes the ruler.
-    圣人用之则为官长。
- ```
- ```swift
-    There should be unity in the rule of the great sage.
-    故大制不割。
+    The divine law will prevail in the world just as streams flow from the vale to the river and the sea.
+    譬道之在天下，犹川谷之于江海。
  ```
 
 ## 我参与的系列项目

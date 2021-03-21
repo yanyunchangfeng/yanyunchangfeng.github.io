@@ -1,63 +1,67 @@
 ---
 layout: post
-title: 道德经20
+title: 道德经21
 tags: [english-daodejing]
 categories: [english]
 image: https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0.0/assets/img/blog/english-grammer/english-grammer-cover5.png
 description: >
-   道德经20
+   道德经21
 ---
  ```swift
-    Therefore, a sage is good at helping people without rejecting anyone.
-    是以圣人长善于救人，故无弃人。
+    If anyone tries to take the world by force and interface with it. I do not think he can succeed.
+    将欲取天下而为之，吾见其不得已。
  ```
  ```swift
-    He is good at saving things without abandoning anything.
-    常善救物，故无弃物。
+    The world is  a sacred realm not to be interface in.
+    天下神器，不可为也，
  ```
  ```swift
-    This is called invisible wisdom.
-    是谓袭明。
+    Anyone who interface in it will fail,and who tries to keep it will lose it.
+    为者败之，执者失之。
  ```
  ```swift
-    Thus a sage is the teacher of common people, and the common people are the stuff for good men.
-    故善人者，不善人之师，不善人者善人之资。
+    For things may lead or follow,blow high or low, be strong or weak,loaded or unloaded.
+    故物，或行或随，或歔（通嘘）或吹、或强或赢、或挫或堕。
  ```
  ```swift
-    If the teacher is not honered and the stuff not valued, even a wise will be at a loss.
-    不贵其师，不爱其资，虽智大迷，
+    So the sage will not go to excess, to extravagance and to extreme.
+    是以圣人去甚、去奢、去泰。
  ```
  ```swift
-    This is the essential secret.
-    是谓要秒。
+    Those who follow the devine law to serve the ruler will not conquer the world by force.
+    以道佐人主者，不以兵强天下。
  ```
  ```swift
-    Learn to be hard as man and  remain soft as woman like a stream in the world.
-    知其雄，守其雌，为天下溪。
+    Conquerors will be conquered in turn. 
+    其事好还。
  ```
  ```swift
-    This stream in the world will not depart from the way of virtue but rejuvenate to its infancy.
-    为天下溪，常德不离，复归于婴儿。
+    Where goes the army,there grow briars and thorns.
+    师之所处，荆棘生焉。
  ```
  ```swift
-    Learn to be bright and remain in the dark ,and try to be a model for the world.
-    知其白，守其黑（辱），为天下式（谷）。
+    After a great war comes a year of famine.
+    军之后，必有凶年。
  ```
  ```swift
-    A model for the world will not stray from the way of virtue but stretch to infinity. 
-    为天下式(谷)，常德不忒(乃足)，复归于无极  (朴)。
+    It    is better to achieve good result than to conquer by force.
+    善有果而已，不敢以取强。
  ```
  ```swift
-    Simplicity may be diversified into instruments.
-    朴散则为器，
+    Goods results never lead to self-conceit, nor to vain glory, nor to undue pride.
+    果而勿矜，果而勿伐，果而勿骄，
  ```
  ```swift
-    When a sage uses the instruments,he becomes the ruler.
-    圣人用之则为官长。
+    Goods results are something unavoidable, not achieved by force.
+    果而不得已，果而勿强。
  ```
  ```swift
-    There should be unity in the rule of the great sage.
-    故大制不割。
+    The prime is followed by decline, or it is against the devine law.
+    物壮则老(物极必反)，是谓不道，
+ ```
+ ```swift
+    What is against the devine law will end early.
+    不道早已。
  ```
 
 ## 我参与的系列项目
