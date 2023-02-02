@@ -24,10 +24,13 @@ excerpt_separator: <!--more-->
 | OpenWMS  | 用来示范管理后台型系统的最佳实践，https://gitee.com/mumu-osc/OpenWMS-Frontend|
 | nicefish-springboot  | 用来示范前后端分离模式下，前端代码与后端服务的对接方式，已经完成了基线版本，并且在腾讯云上面做了实际的部署。代码仓库在这里： https://gitee.com/mumu-osc/nicefish-spring-boot ，腾讯云上的演示地址在这里： http://118.25.136.164 ，以此为基础，你可以继续开发出适合自己业务场景的代码。|
 | nicefish-springcloud  | 用来示范前后端分离模式下，前端代码与分布式后端服务的对接方式，即将完成，代码最近放出。|       
- 
+
 ## 社交主页  
 
-1. [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)    
-2. [燕云长风github](https://github.com/yanyunchangfeng)  
-3. [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
+* [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)    
+* [燕云长风github](https://github.com/yanyunchangfeng)  
+* [燕云长风gitee](https://gitee.com/yanyunchangfeng) 
+
+今天的分享就到这里，祝大家顺利，生活愉快，天天开心。
  
+长风几万里，吹度玉门关。

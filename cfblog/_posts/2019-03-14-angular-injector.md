@@ -44,10 +44,10 @@ Angular提供了层次结构型的依赖，父子结构型的。
 
 ## 社交主页  
 
-1. [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)    
-2. [燕云长风github](https://github.com/yanyunchangfeng)  
-3. [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
+* [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)    
+* [燕云长风github](https://github.com/yanyunchangfeng)  
+* [燕云长风gitee](https://gitee.com/yanyunchangfeng) 
 
-今天的分享就到这里，祝大家顺利，工作愉快，天天开心。
+今天的分享就到这里，祝大家顺利，生活愉快，天天开心。
 
 长风几万里，吹度玉门关。
