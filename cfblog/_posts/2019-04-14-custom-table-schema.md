@@ -568,21 +568,22 @@ var tableDefinition4ItemEdit=[
 ```
 以上就是核心的设计思想和代码实现 如果你需要更加全面的代码，请访问:[HEB_STCS_REST](https://gitee.com/yanyunchangfeng/HEB_STCS_REST)
 
-## 我参与的系列项目
+## 系列项目
 
-1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：美人鱼，这是一个微型Blog系统，前端基于Angular7.0 + PrimeNG7.1.0。（GVIP 码云最有价值的开源项目 5000 ☆)
-2. [NiceFish-React]( https://github.com/damoqiongqiu/NiceFish-React)：这是React版的实现，和 NiceFish Angular 版本保持风格一致。采用React Hooks 16.8.3 版本，使用TypeScript、Ant Design组件库以及Bootstrap v4.2.1 开发。  (7 ☆)
-3. [OpenWMS-Frontend](https://gitee.com/mumu-osc/OpenWMS-Frontend)：OpenWMS项目前端基于 Angular 7.0 + PrimeNG 7.1.0。  (已推荐 200 ☆)
-4. [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud)：这是NiceFish的服务端代码，基于SpringCloud。已经完成了一些基本的功能，如 SpringSecurity+OAuth2+JWT 实现SSO，文章、用户、评论等的分页查询等。如果你需要与这个后端代码进行对接，请检出本项目的 for-spring-cloud 分支。 (已推荐 115 ☆)
+|  名称   | 描述  |
+|  ----  | ----  |
+| NiceFish（美人鱼）  | 这是一个系列项目，目标是示范前后端分离的开发模式:前端浏览器、移动端、Electron 环境中的各种开发模式。后端有两个版本：SpringBoot 版本和 SpringCloud 版本，http://git.oschina.net/mumu-osc/NiceFish |
+| NiceFish-React  |  这是React 版本，基于React 18.0.0 ，使用 Antd、Inversify、 定制版 Bootstrap开发。  https://gitee.com/mumu-osc/NiceFish-React|
+| nicefish-ionic  | 这是一个移动端的 demo，基于 ionic，此项目已支持 PWA。http://git.oschina.net/mumu-osc/nicefish-ionic |
+| NiceBlogElectron  | 这是一个基于 Electron 的桌面端项目，把 NiceFish 用 Electron 打包成了一个桌面端运行的程序。这是由 ZTE 中兴通讯的前端道友提供的，我 fork 了一个，有几个 node 模块的版本号老要改，如果您正在研究如何利用 Electron 开发桌面端应用，请参考这个项目，https://github.com/damoqiongqiu/NiceBlogElectron|
+| OpenWMS  | 用来示范管理后台型系统的最佳实践，https://gitee.com/mumu-osc/OpenWMS-Frontend|
+| nicefish-springboot  | 用来示范前后端分离模式下，前端代码与后端服务的对接方式，已经完成了基线版本，并且在腾讯云上面做了实际的部署。代码仓库在这里： https://gitee.com/mumu-osc/nicefish-spring-boot ，腾讯云上的演示地址在这里： http://118.25.136.164 ，以此为基础，你可以继续开发出适合自己业务场景的代码。|
+| nicefish-springcloud  | 用来示范前后端分离模式下，前端代码与分布式后端服务的对接方式，即将完成，代码最近放出。|    
+## 社交主页  
 
-## 我的社交主页  
-
-1. [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
-2. [燕云长风知乎专栏](https://zhuanlan.zhihu.com/yanyunchangfeng)  
-3. [燕云长风github](https://github.com/yanyunchangfeng)  
-4. [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
-5. [燕云长风twitter](https://twitter.com/yanyunchangfeng)  
-6. [燕云长风medium](https://medium.com/@yanyunchangfeng) 
+1. [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)    
+2. [燕云长风github](https://github.com/yanyunchangfeng)  
+3. [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
 
 今天的分享就到这里，祝大家顺利，工作愉快，天天开心。
 

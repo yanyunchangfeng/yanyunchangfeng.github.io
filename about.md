@@ -9,7 +9,7 @@ description: About me.
       <p class="mt2">
       G'Day! I'm a Chinese senior front-end engineer living in Hangzhou. I've recently been working with Angular,React, React-Router and Redux. I often utilize Bootstrap 4, Ant Design, Material & primeng for UI. Git and Github for version control. As well as SASS, LESS & RxJS. I also have experience with Jekyll, NodeJs and more recently the Angular8.0 & React Hooks.
       </p>
-      <p>I'm working towards becoming a genuine Full Stack Engineer using MongoDB, Express, React/Angular, Node.js (MEA/RN). I will have a Bachelors degree in Information Technology (University of Jilin Animation College, China). I'm also an open source project contributor of NiceFish.</p>
+      <p>I'm working towards becoming a genuine Full Stack Engineer using MongoDB, Express, React/Angular, Node.js (MEA/RN). I'm also an open source project contributor of NiceFish.</p>
       <p>Get in touch! yanyunchangfeng@gmail.com</p>
 <div class="sidebar-social">
    <span class="sr-only">Social:</span>
